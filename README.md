@@ -61,24 +61,23 @@ These groups are funded by the Committee for Clubs and Organizations (CCO).
 
 ## Other Student Groups
 - The Foundry
-- Computer Security Group With Name To Be Determined
 - Engineering Discovery (eDisco)
 - Grand Challenge Scholars' Program (GCSP)
 
-## Sports and Recreation
+### Sports and Recreation
 - Soccer (men's and women's)
 - Ultimate (men's and women's)
 
-## Project Teams
+### Project Teams
 - Phoenix Racing (Baja)
 - Olin Robotic Sailing (ORS)
 - Research in Electric Vehicles at Olin (REVO)
 - Human-Powered Vehicles (HPV)
 
-## Active Research Groups
+### Research Groups
 - Robotics Research @ Olin (Olin Intelligent Vehicles Lab)
 
-## Student Government
+### Student Government
 - Council of Olin Representatives (CORe)
 - Honor Board (HB)
 - Student Activities Committee (SAC)
