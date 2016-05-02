@@ -6,7 +6,8 @@ Tea on Three's purpose is to hold a weekly tea party in West Hall to bring toget
 ## Membership
 Tea on Three is designed to be open to whomever shows up, but "official" members will be those on the club mailing list.
 
-## Tea on Three will always have someone who sends out emails, and someone who buys the tea and other supplies. A Czar of Communication and a Czar of Finance, if you will. They can be the same person.
+## Officers and Roles
+Tea on Three will always have someone who sends out emails, and someone who buys the tea and other supplies. A Czar of Communication and a Czar of Finance, if you will. They can be the same person.
 
 ## Transition Protocol
 If there is a volunteer to take over one of the Czar positions and the current Czar would like to abdicate, they may do so at anytime. When a Czar graduates or takes a LOA, they must designate a replacement.
