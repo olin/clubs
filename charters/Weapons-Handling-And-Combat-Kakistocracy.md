@@ -1,4 +1,4 @@
-#WHACK (Fencing)
+#WHACK: Weapons-Handling-And-Combat-Kackistocracy (Fencing)
 *Last modified 2015-05-01*
 
 ##Purpose
