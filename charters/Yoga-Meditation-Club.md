@@ -1,5 +1,5 @@
 #Yoga/Meditation Group
-Last ammended: 
+Last ammended: 2014-09-07
 
 ##Purpose
 To provide people with two main things: a set of tools they can use to practice yoga and meditation on their own or in a group for the maintenance of mental and physical health and as a stress reliever, as well as a group in which to practice said things. In addition to these, the group will serve to spread the awareness of the benefits of yoga and meditation.
@@ -7,7 +7,7 @@ To provide people with two main things: a set of tools they can use to practice 
 ##Membership
 Members of this group are free to come and go to sessions as they please, and there is no commitment required, though regular attendance can prove to be beneficial for the group and the group member. While at sessions, the Group Guide can ask a member to leave if they are disorderly or disrespectful after several warnings. Members are also welcome to contribute to sessions via suggestions or by taking leadership for certain exercises.
 
-###Officers and Roles
+##Officers and Roles
 * Group Guide (2): These will be the members of the group who will help lead certain exercises and meditation sessions by guiding the group though postures, positions, etc. In the event of absence of a Group Guide, any confident, experienced member can step up and take on this role.
 
 ##Transition Protocol
