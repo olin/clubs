@@ -1,4 +1,4 @@
-#TARDIS (Totally Awesome Doctor-Inspired Stuff)
+#TARDIS (Totally Awesome and Ridiculous Doctor-Inspired Stuff)
 *Last modified 2015-05-01*
 
 ##Purpose
