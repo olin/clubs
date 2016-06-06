@@ -1,5 +1,5 @@
 #Volleyball Club
-Last modified 2015-05-01
+*Last modified 2015-05-01*
 
 ##Purpose
 The goal of volleyball club is to join people through an enjoyable sport and expand sports at Olin and spread a passion for volleyball.
