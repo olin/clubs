@@ -1,5 +1,5 @@
 #Yoga/Meditation Group
-Last ammended: 2014-09-07
+*Last ammended: 2014-09-07*
 
 ##Purpose
 To provide people with two main things: a set of tools they can use to practice yoga and meditation on their own or in a group for the maintenance of mental and physical health and as a stress reliever, as well as a group in which to practice said things. In addition to these, the group will serve to spread the awareness of the benefits of yoga and meditation.
