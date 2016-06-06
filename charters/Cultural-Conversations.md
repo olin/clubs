@@ -1,4 +1,5 @@
 # Cultural Conversations
+*Last modified 2015-05-11*
 ## Purpose
 The goal of Cultural Conversations is increase campus awareness and organic discussion around ethnic and cultural diversity at Olin.  We meet monthly and spend an hour considering and discussing a culturally related topic.
 ## Membership 

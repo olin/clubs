@@ -1,4 +1,5 @@
 # Art with Heart
+*Last modified 2014-09-08*
 
 ## Membership
 

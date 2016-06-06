@@ -1,4 +1,5 @@
 # Cryptography Club
+*Last modified 2015-09-07*
 ## Purpose
 The goal of cryptography club is to get interested Olin students involved in the important field of cryptography and cyber security. Main events will involve participating and planning for the MIT capture the flag competition October 25-27 and attended lectures from professors on the interdisciplinary topics of cryptography and cyber security on a student interest basis. We will also be solving puzzles. 
 ## Membership

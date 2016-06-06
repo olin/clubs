@@ -1,4 +1,5 @@
 # BCO (BOW Climbing Organization)
+*Last modified 2015-07-06*
 
 ## Purpose
 Climbing fun for everyone! Our team will be founded on several key tenets: 

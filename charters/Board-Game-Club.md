@@ -1,4 +1,5 @@
 # Board Game Club
+*Last modified 2016-01-21*
 ## Purpose 
 The goal of this club is to set up times and events during which people can play board games with others, to manage the board games Olin owns, and to buy new board games.
 ## Membership

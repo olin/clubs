@@ -1,4 +1,5 @@
 # Cheese Club
+*Last modified 2015-05-04*
 ## Purpose
 To enable all of Olin to enjoy eating and learning about delicious cheese in it's many forms.
 ## Membership 

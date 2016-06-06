@@ -1,4 +1,5 @@
 # Breakfast and NPR
+*Last modified 2015-05-05*
 ## Purpose 
 Our purpose is to listen to NPR and cook food. Listening to NPR makes us more knowledgeable and cooking is the ideal environment for listening to NPR.
 ## Membership 

@@ -1,4 +1,5 @@
 # BOW DFA Chapter
+*Last modified 2015-07-31*
 
 ## Purpose
 Design for America is a collaborative club between Babson, Olin, and Wellesley whose mission is to use human-centered design to solve local social challenges. Students will work in teams on short-term projects that do good. There will be lots of flexibility regarding the work itself, and this is a great opportunity for engineers, business students, and those interested in design to work together and do something exciting that benefits others. It is also a great way to create a portfolio - anything from coding to creating logos can be part of your project. 

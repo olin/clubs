@@ -1,5 +1,6 @@
 # Adventure Club
-*Note: this charter is preliminary and meant as a placeholder until somebody can actually sit down and write one*
+*Last modified 2015-07-19*
+_**Note: this charter is preliminary and meant as a placeholder until somebody can actually sit down and write one**_
 
 ## Purpose
 To invite and unite and represent all adventurers of Olin.

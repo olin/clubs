@@ -1,4 +1,5 @@
 # Computing Conversations
+*Last modified 2015-05-14*
 ## Purpose
 The purpose of Computing Conversations is to foster a friendly computing community at Olin by providing a forum for weekly discussion of interesting computing topics. These conversations will allow students to learn from each other - allowing peer to peer mentorship and friendships. This is designed to be a helpful resource for students of all backgrounds, majors, and experience levels.
 ## Membership

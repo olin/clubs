@@ -1,6 +1,6 @@
 The Official Charter of the
 # Babson-Olin Catholic Association (B.O.C.A.)
-
+*Last modified 2015-05-21*
 ## Article One: Club Definition
 ### Section 1
 The Official Name of this club is "The Babson-Olin Catholic Association" and may be abbreviated to B.O.C.A.
