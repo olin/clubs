@@ -11,6 +11,8 @@ The membership varies. There are generally around 8 core members that come on a 
 ##Officers and Roles:
 Currently there are two co-presidents. The president(s) of JOO club is in charge of planning events, budgeting and delegating as well as communicating with the CCO or Hillel for needed funding.
 
+There may also be a vice president(s) role whose job it to help the president(s) with planning and exicuting events and also learning in order to maintain some continuity within the club.
+
 ##Transition Protocol
 The president(s) will be passed down from year to year to a qualified candidate willing to accept the responsibility.  If there are multiple candidates, we will have a discussion/ vote to decide the either who the president is, and whether or not we should have a co-presidency.
 
