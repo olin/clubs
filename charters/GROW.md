@@ -1,8 +1,8 @@
 #GROW
-*Last modified 2015-05-03*
+*Last modified 2016-06-07*
 
 ## Purpose
-Greening Olin and the World (GROW) is a student collective for making the world a more environmentally sustainable place. We meet weekly for dinner discussions and project check-ins. GROW will also strive to encourage other community members to be more thoughtful in their actions by encouraging sustainable choices.GROW will support multiple projects based on interests of members.
+GROW is a student collective for making the world a more environmentally sustainable place. We meet weekly for dinner discussions and project check-ins. GROW will also strive to encourage other community members to be more thoughtful in their actions by encouraging sustainable choices.GROW will support multiple projects based on interests of members.
 
 ## Membership
 GROW has an open membership policy and encourages interested students to attend weekly meetings, in order to ensure progress in GROW's projects. We strive to have as many people at the discussions and projects as possible. The goal is to get everyone thinking about living sustainably.
