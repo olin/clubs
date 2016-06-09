@@ -3,9 +3,11 @@ A list of Student Organizations at Olin, also club charters.
 To contact any club or organization, contact the current Director of Clubs and Organizations, Joe Sutker, at [joe@students.olin.edu](mailto:joe@students.olin.edu).
 
 ## Clubs and Organizations
-These groups are funded by the Committee for Clubs and Organizations (CCO).
+These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2015-2016 school year.
+- The ACRONYM
 - Adventure Club	
-- Aero	
+- Aero
+- Art in Action!
 - Art With Heart (AwH)
 - Babson-Olin Catholic Association (BOCA)
 - Badminton Club	
@@ -13,20 +15,23 @@ These groups are funded by the Committee for Clubs and Organizations (CCO).
 - Breakfast and NPR	
 - Chainmail and a Movie	
 - Cheese Club	
+- Competitive Programming Club
 - Computing Conversations	
 - Creative Cartography Club	
 - Curb Club	
 - Franklin W. Olin Cyber Defenders (FWOCD)
-- Cultural Conversations	
+- Cultural Conversations
+- Danger, Adventure, Nerds, and Knitting Club (DANK)
 - Design For America (DFA)
 - Dungeons and Dragons Club (DnD)
 - Earth and Table (EaT)
 - FILM (FILM)
 - Filmmakers Unite Now! (FUN)
 - Franklin W. Olin Players (FWOP)
+- German Club
 - Glass Club	
 - Greening Olin	GO Bikes!
-- GROW	
+- GROW
 - Ink, Inc	
 - Jewish Organization at Olin (JOO)
 - Kitchen Club	
@@ -44,7 +49,8 @@ These groups are funded by the Committee for Clubs and Organizations (CCO).
 - OPEN (OPEN)
 - Outing Club (OC)
 - Pool Club	
-- PowerChords	
+- PowerChords
+- Sailing Club
 - Skate Club
 - Society of Women Engineers (SWE)
 - South Park Club	
@@ -55,6 +61,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO).
 - Taiwanese Association at Olin (TAO)
 - Tea on Three (T3)
 - Totally Awesome and Ridiculous Doctor-Inspired Stuff (TARDIS)
+- UV Club
 - Volleyball Club	
 - Weapons Handling and Combat Kakistocracy (Fencing Club) (WHACK)
 - Yoga/Meditation Group
