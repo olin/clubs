@@ -7,6 +7,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - The ACRONYM
 - Adventure Club	
 - Aero
+- Art Club
 - Art in Action!
 - Art With Heart (AwH)
 - Babson-Olin Catholic Association (BOCA)
