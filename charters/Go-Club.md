@@ -14,7 +14,7 @@ The Go Coordinator, generally the strongest player, is responsible for elist and
 Should the Coordinator choose to step down, he/she is responsible for choosing an appropriate successor and giving them administrative rights for the elist.
 
 ## Club Materials, Purchases, and Space
-The club has a small amount of materials (2 19x19 boards and 2 sets of stones) to be stored with other community Olin game sets (currently 2nd floor WH).
+The club has 19x19 and 13x13 go boards and several sets of stones to be stored with other community Olin game sets (currently 2nd floor WH).
 
 ## Events and Activities
 Go Club meets weekly on Friday nights, and participates in all club fairs.
