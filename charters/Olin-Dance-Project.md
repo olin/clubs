@@ -11,7 +11,7 @@ The Olin Dance Project has a very open membership, we invite the entire Olin com
 
 ## Officers and Roles
 
-President: Andrew Deaver
+President: Andrew Deaver  
 Vice-President: Mary Martin
 
 The president and vice-president are responsible for organizing dance events, including coordinating with any dance group from other campuses, transportation to and from off-site dance events, etc.
