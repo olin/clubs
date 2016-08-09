@@ -41,6 +41,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Midnight Riders	
 - Net Impact
 - Olin Christian Fellowship (OCF)
+- Olin Dance Project (ODP)
 - Olin Fire Arts Club (OFAC)
 - Olin Indian Club	
 - Olin Model United Nations (OMUN)
