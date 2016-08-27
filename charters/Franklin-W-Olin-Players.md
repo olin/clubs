@@ -2,7 +2,8 @@ the
 #Franklin W. Olin Players
 Organization Charter
 
-*Last modified 2014-04-19*
+*Last modified 2016-08-27*
+*To be ammended come Fall Semester*
 
 ## Mission Statement
 The Franklin W. Olin Players (FWOP) will strive to enhance the culture of the Olin College community through the medium of the performing arts.  FWOP-sponsored activities will be student-driven, emphasize the Olin ideal of balanced student interests, and serve to reach and involve the entire Olin community.
