@@ -2,10 +2,10 @@
 *Last modified 2016-08-28*
 
 ## PokéNames
-The official name of the club is "the Franklin W. Olin Pokémon League". Alternative names include "Olin Pokémon Club", "Pokémon Club", "Olin Pokémon", and "Franklin W. Olin League". These names are mostly interchangable and can be used for clarity's sake when communicating about club business.
+The official name of the club is "the Franklin W. Olin Pokémon League". Alternative names include "Olin Pokémon Club", "Pokémon Club", "Olin Pokémon", and "Franklin W. Olin League". These names are mostly interchangeable and can be used for clarity's sake when communicating about club business.
 
 ## PokéAccents
-The club maintains that the proper pronounciation of "Pokémon" is "poh-kay-mohn." As such, members and officers should try to use an e with an accute accent (like this one: é) whenever they write the word "Pokémon" or use the shortening of it: "Poké". However, everybody makes mistéks, so there's no penalty for messing this up or saying "poh-kih-mohn" or "poh-kee-mohn" out loud. It's more of a guideline than an actual rule.
+The club maintains that the proper pronunciation of "Pokémon" is "poh-kay-mohn." As such, members and officers should try to use an e with an acute accent (like this one: é) whenever they write the word "Pokémon" or use the shortening of it: "Poké". However, everybody makes mistéks, so there's no penalty for messing this up or saying "poh-kih-mohn" or "poh-kee-mohn" out loud. It's more of a guideline than an actual rule.
 
 ## PokéPurpose
 To celebrate and play Pokémon in all its forms.
