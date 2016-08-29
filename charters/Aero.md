@@ -1,5 +1,5 @@
 #Aero
-*Last modified 2014-09-08*
+*Last modified 2016-08-29*
 
 ## Purpose
 Olin Aero is a project team centered around the design and fabrication of autonomous aerial vehicles. ("UAVs")
@@ -15,7 +15,7 @@ At will the Sky Captain may designate any member of the club as the next Sky Cap
 
 ## Club Materials, Purchases and Space
 Olin Aero's primary expenditures are building material for its air vehicles. Aero will seek out funding from corporate sponsors as well as utilizing standard club funding sources.
-Aero's meeting space is TDB; we will find a professor willing to let us use some space.
+Aero's meeting space is the library.
 
 ## Events and Activities
 Olin Aero will hold weekly meetings to discuss club affairs and to work on projects, as well as occasional work days to conduct additional work on projects.
