@@ -1,5 +1,5 @@
 #Dungeons and Dragons Club
-*Last modified 2015-05-11*
+*Last modified 2016-06-26*
 
 ## Purpose
 To facilitate games and/or discussion of the role-playing game Dungeons and Dragons (and other similar systems or tabletop RPGs)
