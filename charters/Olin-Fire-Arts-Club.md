@@ -1,5 +1,5 @@
 # Olin FireOFAC
-*Last modified 2015-05-27*
+*Last modified 2016-08-09*
 
 ## Purpose
 
@@ -11,7 +11,7 @@ Members attend practice once a week and burns every other week, and we do perfor
 
 ## Officers and Roles
 
-President: Evan Dorsky VP: Riley Chapman
+President: Riley Chapman VP: Paige Pfenninger
 
 ## Transition Protocol
 
