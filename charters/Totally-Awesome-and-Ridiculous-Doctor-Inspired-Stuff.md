@@ -1,5 +1,5 @@
 #TARDIS (Totally Awesome and Ridiculous Doctor-Inspired Stuff)
-*Last modified 2015-05-01*
+*Last modified 2016-08-26*
 
 ##Purpose
 To celebrate The Doctor. Tardis gathers weekly to enjoy episodes of Doctor Who, play who-themed games, and debate the details of the Who-Verse. Also to complain about Stephen Moffat.
@@ -8,7 +8,7 @@ To celebrate The Doctor. Tardis gathers weekly to enjoy episodes of Doctor Who, 
 No commitment necessary. Just show up once a week if you feel like. Usually saturday nights but we bounce around if there's another conflicting event.
 
 ##Officers and Roles
-The only notable Officer is the club president, who may choose the title The Doctor, The Master, or Lord President of the High Council of the Time Lords. Basically they are in charge of organizing events.
+The only notable Officer is the club president(s), who may choose the title The Doctor, The Master, or Lord President of the High Council of the Time Lords. Basically they are in charge of organizing events.
 
 ##Transition Protocol
 The President nominates a successor when they graduate, take a leave of absence, study abroad, or no longer wish to be awesome.
