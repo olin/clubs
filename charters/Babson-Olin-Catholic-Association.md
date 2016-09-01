@@ -1,6 +1,6 @@
 The Official Charter of the
 # Babson-Olin Catholic Association (B.O.C.A.)
-*Last modified 2015-05-21*
+*Last modified 2016-08-31*
 ## Article One: Club Definition
 ### Section 1
 The Official Name of this club is "The Babson-Olin Catholic Association" and may be abbreviated to B.O.C.A.
@@ -15,7 +15,7 @@ The Babson-Olin Catholic Association is affiliated with the Student Government A
 Anyone who identifies as a member of the Roman Catholic Church who is also part of the Babson or Olin community and joins the B.O.C.A. mailing list will be considered a member of B.O.C.A. In addition, any non-Catholic student may become a member of their own accord, provided that they do not disrespect the Catholic Church or her beliefs. In practice, members are those who attend meetings and events or ask to be kept informed on club happenings.
 
 ## Article Three: Officers
-The B.O.C.A. officers will be these: Co-Presidents, a Financial Coordinator from Babson College, a Financial Coordinator from Olin College, a Marketing Director, a Mass Coordinator, and a BIG Representative. It is the responsibility of all officers to support the Presidents in the administration of B.O.C.A. All officers are expected to help in planning and executing events throughout the year. Officers should also help to recruit general membership to plan/participate in events. Each officer must prepare a transitional document outlining the roles and responsibilities of the position as well as any major issues faced and how they were resolved.
+The B.O.C.A. officers will be these: Co-Presidents, a Financial Coordinator from Babson College, a Financial Coordinator from Olin College, a Marketing Director, a Mass Coordinator, and a BIG Representative. It is the responsibility of all officers to support the Presidents in the administration of B.O.C.A. All officers are expected to help in planning and executing events throughout the year. Officers should also help to recruit general membership to plan/participate in events. Each officer must prepare a transitional document outlining the roles and responsibilities of the position as well as any major issues faced and how they were resolved.  In the event of absence or resignation of an officer, multiple offices and be held by one person.
 
 ### Co - Presidents:
 The Presidents will be responsible for the general oversight of B.O.C.A. If possible, one president will come from each school. In the case that this is not possible, two students from one school may serve as co-presidents or one student may take on the entire role. This responsibility includes, but is not limited to, being accountable for all decisions made on the association's behalf, holding meetings, ensuring proper transition from year to year, and representing B.O.C.A. whenever necessary. The Presidents are responsible for interfacing with the assigned priest(s), chaplain(s), the Babson Office of Faith and Service, and the Olin Office of Student Affairs and Resources to ensure that the needs of the membership are met. The Presidents are responsible for maintaining B.O.C.A.'s status as a religious organization at Babson College. The Presidents may delegate these responsibilities as needed.
