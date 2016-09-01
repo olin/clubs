@@ -1,13 +1,13 @@
 # Olin Performance Improv Und Magick
-*Last modified 2015-06-02*
+*Last modified Aug 23 2016*
 
 ## Purpose
 
-To learn and practice long- and short-form imrpov comedy; to do improv performances at Olin; to travel to improv jams with other college troupes, compete, and seek out coaching and demonstrations from professional comedians
+To learn and practice long-form imrpov comedy; to do improv performances at Olin; to travel to improv jams with other college troupes, compete, and seek out coaching and demonstrations from professional comedians
 
 ## Membership
 
-Auditions are held at the beginning of each academic year and somewhere from 6-10 troupe members are chosen. Troupe members commit to one 2-hour practice per week along with an optional 1-hour extra practice. OPIUM will hold open workshops for any Olin students to attend once every month or two.
+Auditions are held at the beginning of each academic year and somewhere from 6-10 troupe members are chosen. Troupe members commit to two 1.5-hour practices per week and a 1-hour bonding block per week. OPIUM members also commit to putting on a 1-hour show at the end of every month.
 
 ## Officers and Roles
 
@@ -19,7 +19,7 @@ If one of the two co-leaders is graduating, the troupe votes in April for a repl
 
 ## Club Materials, Purchases and Space
 
-The club needs no materials, but may submit requests to fund competition entry fees or to subsidize Oliners' tickets should they attend these shows (ie, ComedyFest in Boston last year charged something like $12 to watch a round).
+The club needs no materials, but will request funding for an Improv Boston college membership and admission to College Comedy Fest in the spring.
 
 ## Events and Activities
 

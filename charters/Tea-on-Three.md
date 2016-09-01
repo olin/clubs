@@ -1,5 +1,5 @@
 # Tea on Three
-*Last Amended: 
+*Last Amended: 8/22/2016 by Audrey Lewis, Czar of Communication and Finance
 ## Purpose
 Tea on Three's purpose is to hold a weekly tea party in West Hall to bring together Olin students. What sets our social hour apart from others is that it's made to be quieter, more accessible, at a time of day when people are normally working and need a relaxing break.
 

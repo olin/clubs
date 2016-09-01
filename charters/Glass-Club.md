@@ -1,11 +1,11 @@
 #Glass Club
-*Last modified 2015-05-13*
+*Last modified 2016-08-09*
 
 ##Purpose
 Glass Club is created to provide students with the opportunity to work molten glass. Glass-working is an amazing fusion of concepts that takes knowledge from chemistry, physics and art to excel. We focus on small-scale "lampworking" (forming glass with a torch) to further our education in the fine arts.
 
 ##Membership
-Any student can join the Glass Club. In order to participate in glass-making activities, members will have to go through a safety briefing with glass club leadership. People will be considered active members if they attend at least 50% of events.
+Any student can join the Glass Club. In order to participate in glass-making activities, members will have to go through a safety briefing with glass club leadership. People will be considered active members if they attend at least 50% of events. Members must help set up or clean up everytime at glass club meetings to remain members.
 
 ##Officers and Roles
 There are two positions in Glass Club: President and general member. The role of the President (one or more individuals) is responsible for organizing meetings and events, managing purchasing requests, appointing positions for the following year, managing the club supplies (storage, what to buy, etc.), teaching new members fundamentals of glass-making, and is the prime person responsible for the safety of the club's members. They establish and enforce safety protocol, sets up (and takes down) the torches and gas cylinders or delegate it to another member trained in the proper safety protocol.
