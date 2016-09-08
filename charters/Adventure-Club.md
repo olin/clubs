@@ -1,5 +1,5 @@
 # Adventure Club
-*Last modified 2015-07-19*
+*Last modified 2016-09-07*
 _**Note: this charter is preliminary and meant as a placeholder until somebody can actually sit down and write one**_
 
 ## Purpose
