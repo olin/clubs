@@ -5,9 +5,9 @@
 
 ## Purpose
 The purpose of this club is to create a community of runners that help Oliners:
-1. Get and stay in shape
-2. Find training partners
-3. Share running tips and information
+  1. Get and stay in shape
+  2. Find training partners
+  3. Share running tips and information
 
 ## Membership
 Membership is open to everyone.
