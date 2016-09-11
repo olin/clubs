@@ -8,7 +8,7 @@ The goal of Badminton club is to provide an environment in which people interest
 Any member can be a part of Badminton club to play in Babson. However, repeated professional playing at Magnus center will require a Magnus club membership (smaller subgroup of badminton club). Exact fees haven’t been calculated yet, but will be prorated per event to be less than 20 dollars per person.	This may or may not happen, depending on interest.
 
 ##Officers and Roles:
-A president and vice president of Magnus Club work together to contact Babson as well as Magnus Club to coordinate playing times. We then relay this information back to members of the club to go over at specified weekly times. This year, Shrinidhi Thirumalai is fulfilling the president role while Abigail Rodriguez fulfills the vice president role. We are also training Kevin Guo, so he can hopefully pick up the club after Shrinidhi and Abi graduate.
+A president and vice president of Magnus Club work together to contact Babson as well as Magnus Club to coordinate playing times. We then relay this information back to members of the club to go over at specified weekly times.
 
 ##Transition Protocol
 In the month of April, the president and vice president hold a meeting to discuss and  designate successors, who will take over at the start of the end of the next school year. At that time, the new president will inform the SAC Clubs and Organizations Chair that the transition has occurred.	
@@ -20,4 +20,4 @@ Most of the important materials we need is taken care of by Babson(their courts)
 We plan to have weekly events at Babson PepsiCo (perhaps Magnus Club, depending on interest) during which a group of us walk or bike over to the locations in order to play badminton for an hour or two. Once we've organized times, we can give you more information.	
 
 ##Amendment Procedure
-Amendments to this charter can be proposed at any time. If an amendment receives a vote of support from at least 50% of the membership,or is agreed upon by the president and VP, it passes and the revised charter will be sent to the SAC Clubs and Organizations Chair.		
+Amendments to this charter can be proposed at any time. If an amendment receives a vote of support from at least 50% of the membership,or is agreed upon by the president and VP, it passes and the revised charter will be submitted as a pull request to the Olin Clubs repo.		
