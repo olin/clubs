@@ -11,7 +11,7 @@ There's a mailing list for organizing events, but anyone who enjoys MTG can join
 Grand Arbiter: This mage is responsible for organizing events and ordering product for drafts. Other roles can be created and responsibilities shared if necessary.
 
 ## Transition Protocol
-The Grand Arbiter or other members of the club will decide on a new leader.
+The Grand Arbiter will decide on a new leader; or, in the absence of the Grand Arbiter, other club members can elect one.
 
 ## Club Materials and Purchases
 The WH3 closet has a large stock of miscellaneous commons and uncommons for deckbuilding, cubing, etc.
