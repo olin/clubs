@@ -40,7 +40,6 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Outing Club
 - Pokemon
 - PowerChords
-- SONIC (??)
 - Splendiferous Sixpenny Steampunk Society
 - Stay Late And Create
 - Tea on Three
