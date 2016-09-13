@@ -24,6 +24,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Jewish Organization at Olin
 - Kitchen Club
 - League of Legends at Olin
+- Magic the Gathering Club
 - Midnight Riders
 - Olin Christian Fellowship
 - Olin Dance Project
