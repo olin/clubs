@@ -17,6 +17,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Chainmail and a Movie
 - Cryptography Club
 - Dungeons and Dragons Club
+- Forum
 - German Club
 - Glass Club
 - Go Club
