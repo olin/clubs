@@ -1,4 +1,4 @@
-# Yarn that Oliners Use (YOU)
+# Yarn Oliners Use (YOU)
 *Last modified 2016-11-12*
 
 
