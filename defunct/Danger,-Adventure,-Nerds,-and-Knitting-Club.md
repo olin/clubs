@@ -1,25 +1,24 @@
-# Danger, Adventure, Nerds, and Knitting Club (DANK)
-*Last modified 2015-10-23*
+# Yarn that Oliners Use (YOU)
+*Last modified 2016-11-12*
 
 
 ## Purpose
-The goal of knitting club is to encourage knitting. Many people at Olin enjoy knitting. Many people at Olin could potentially enjoy knitting if introduced to it. Many people don’t enjoy knitting, but they won’t be part of the club. We will provide teaching and instruction for the first two groups mentioned above. 
+The goal of YOU club is to encourage knitting, crocheting, and generally playing with yarn. Many people at Olin enjoy knitting. Many people at Olin could potentially enjoy knitting if introduced to it. Many people don’t enjoy knitting, but they won’t be part of the club. We will provide teaching and instruction for the first two groups mentioned above. Crocheting counts, as does pretty much any activity using yarn and needles.
 
 ## Membership
-Anyone who wants to join knitting club is welcome. They just have to knit things and be on the mailing list.
+Anyone who wants to join YOU club is welcome. They just have to do yarn things and be on the mailing list.
 
 ## Officers and Roles
-The CEO manages the mailing list and has control over the direction of the club, and with the other leadership (2 CKO’s -- that’s Chief Knitting Officers), has the final say on all club decisions.
+The YarnMaster manages everything, so no one else has to bother to. They take care of the mailing list, makes all final decisions for the club, makes purchase requests, and generally attempt to give yarncraft a legitimate club again.
 
 ## Transition Protocol
-By the end of April, the officers of knitting club will pick a new leadership team for next year. At that time, the new heads of knitting club will inform the Director of Clubs and Organizations that the transition has occurred. A transition document will be handed down describing the illustrious history of the club and the responsibilities required to forward the organization.
+By the end of April, the YarnMaster will either stay the YarnMaster, pass down the exclusive YarnMaster position, or completely rework the officer positions. In any case, any new leader(s) will fill out any needed paperwork and be bestowed the responsibilities required to keep the club undead.
 
 ## Club Materials, Purchases and Space
-Knitting club currently has a variety of knitting supplies (yarn, needles, etc.) from previous years. These were stored in the lounge cabinets in East Hall, and with approval, they would probably stay there for the rest of this academic year. Over the course of the semester, we may need to buy additional supplies as needed, and we will make purchase requests for these new knitting supplies.
+YOU club currently has a variety of yarncraft supplies (yarn, needles, etc.) from previous years. These are stored in the lounge cabinets in East Hall, and they’ll stay there until someone explicitly complains. Over the course of the semester, we may need to buy additional supplies as needed, and we will make purchase requests for these new supplies.
 
 ## Events and Activities
-We may host small knitting gatherings where people knit together. We would likely buy snacks for these events, but our other knitting supplies should cover other materials (for the actual knitting)
+We may host small gatherings where people yarn together and teach others yarncrafts. We might buy snacks for these events, but our supplies should cover the actual yarncraft materials.
 
 ## Amendment Procedure
-Amendments to this charter can be proposed at any time by knitting club members. If an amendment receives a vote of support from at least 50% of the membership, it passes and the revised charter will be submitted via pull request to the club charters github.
-
+Amendments to this charter can be proposed at any time by YOU club members, or passed directly by the YarnMaster. In cases of membership proposition and consensus, or arbitrary YarnMaster decision, the amendment passes and the revised charter will be submitted via pull request to the club charters github.
