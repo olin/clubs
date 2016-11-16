@@ -22,6 +22,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Dungeons and Dragons Club
 - Forum
 - Franklin W Olin Players
+- FUN Club
 - German Club
 - Glass Club
 - Go Club
