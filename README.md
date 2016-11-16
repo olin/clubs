@@ -5,19 +5,23 @@ To contact any club or organization, contact the current Director of Clubs and O
 ## Clubs and Organizations
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2016-2017 school year.
 - Acronym
+- Adventure Club
 - Aerial Competitive Racing at Olin
 - Aero 
 - Aquaponics
+- Art Club
 - Art With Heart
 - Astronomy Club
 - Babson-Olin Catholic Association 
 - Badminton Club
 - Board Game Club
 - BOW Climbing Organization
+- Cardistry Club
 - Chainmail and a Movie
 - Cryptography Club
 - Dungeons and Dragons Club
 - Forum
+- Franklin W Olin Players
 - German Club
 - Glass Club
 - Go Club
@@ -27,6 +31,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - League of Legends at Olin
 - Magic the Gathering Club
 - Midnight Riders
+- Olin Aerials and Circus
 - Olin Christian Fellowship
 - Olin Dance Project
 - Olin Fire Arts Club
@@ -40,14 +45,15 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Olinomic
 - OPEN
 - Outing Club
-- Pokemon
+- Pokemon Club
 - PowerChords
 - Splendiferous Sixpenny Steampunk Society
 - Stay Late And Create
 - Tea on Three
 - Totally Awesome and Ridiculous Doctor-Inspired Stuff
 - Volleyball Club
-- Weapons Handling and Combat Kakistocracy
+- Weapons Handling And Combat Kakistocracy
+- Yarn Oliners Use
 
 ## Other Student Groups
 - The Foundry
