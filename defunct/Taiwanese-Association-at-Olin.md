@@ -1,5 +1,5 @@
 #TAO: Taiwanese Association at Olin
-*Last modified 2015-05-11*
+*Last modified 2016 October 8th*
 
 ##Purpose
 The purpose of Taiwanese Association at Olin is to explore and celebrate Taiwanese culture in the Olin community. 
@@ -17,7 +17,7 @@ In April, the president and vice-president will designate successors for the fol
 Any materials purchased by the club will be accessible to all of its club members.
 
 ##Events and Activities
-Events and activities will happen on at least a monthly basis. They could include celebration of holidays, movie nights, playing games, or club outings related to Taiwanese culture. 
+Events and activities will happen as relevant. They could include celebration of holidays, food events, or club outings related to Taiwanese culture. 
 
 ##Amendment Procedure
 Amendments to this charter can be proposed at any time. If an amendment receives a vote of support from at least 50% of the membership, it passes and the revised charter will be sent to the SAC Clubs and Organizations Chair.
@@ -27,6 +27,6 @@ Amendments to this charter can be proposed at any time. If an amendment receives
 
 Nightmarket.
 Bobalympics.
-Snow slush day."
+Taiwanese Breakfast!"
 
 
