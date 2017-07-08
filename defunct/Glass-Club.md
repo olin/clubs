@@ -1,5 +1,5 @@
 #Glass Club
-*Last modified 2016-08-09*
+*Last modified 2017-07-07*
 
 ##Purpose
 Glass Club is created to provide students with the opportunity to work molten glass. Glass-working is an amazing fusion of concepts that takes knowledge from chemistry, physics and art to excel. We focus on small-scale "lampworking" (forming glass with a torch) to further our education in the fine arts.
@@ -17,7 +17,7 @@ The president will name the leadership of the following year. Other members of t
 Glass club requires oxy-propane torches, glass rods, tubes, glass-forming tools and gas and oxygen supply. Gas is obtained through the natural gas supply in the materials science lab (AC413). Oxygen cylinders are stored in AC409 and are transported from there to AC 413 for lampworking. Regulators for oxygen tanks are stored in AC413. The consumable materials, torches and tools will be stored with the President until a more permanent storage space can be obtained. As stated before, the President will be in charge of purchases. Any member of the club is welcome to use materials for glass working as long as they have the permission of the President.
 
 ##Events and Activities
-Events will be held whenever the President feels like it. They will be held on approximately a weekly basis.
+Events will be held at a time agreed upon by members at the beginning of each semester. They will be held on approximately a weekly basis.
 
 ##Amendment Procedure
 At any point during the semester, members of the club can propose an amendment to the charter. If that amendment is approved by at least 50% of active members (including at least one President), it is law.
