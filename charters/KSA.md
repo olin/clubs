@@ -2,7 +2,7 @@
 ## Club Name (and last amended date)
 Korean Student Association (KSA) (2nd July 2017) 
 
-##Purpose
+## Purpose
 To promote Korean cultural awareness, to build a network among Korean Oliners and Korean exchangers, and to foster interaction with other KSAs. Individuals who are not ethnically Korean, but who still want to experience Korean culture are very welcome to join.
 
 ## Membership (in alphabetical order)
@@ -24,8 +24,8 @@ For traditional Korean Holidays, our club may use the kitchen in either EH or WH
 First years welcome event
 Chuseok (Korean Harvest Festival)
 ### Spring Semester
-	Exchangers welcome event
-	Lunar New Year event
+Exchangers welcome event
+Lunar New Year event
 
 ## Amendment Procedure
 KSA welcomes any concerns in terms of rules and organization structure. Concerns can be voiced both publicly in meetings, or through email or private message. If required (after asking members early in the academic year) a messaging system catered for anonymity will be put in place. 
