@@ -27,7 +27,7 @@ As an extra note, some people liken being exclusive to being cool, and intention
 * Have fun!
 
 ## Officers and Roles
-Prime Minister of Adventure: The person who organizes events and money and things. Currently Charlie Weiss
+Prime Minister of Adventure: The person who organizes events and money and things. Currently Charlie Weiss.
 Other roles as requested.
 
 ## Transition Protocol
