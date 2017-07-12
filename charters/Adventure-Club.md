@@ -3,8 +3,6 @@
 _**Note: Charlie wrote this and doesn't really know what she's doing, so suggestions are appreciated**_
 
 ## Purpose
-To invite and unite and represent all adventurers of Olin.
-
 Adventure is out there! If you agree, join. We're here to invite, unite, and represent all adventurers of Olin. This club is known to host the annual Adventure Club Scavenger Hunt, and this year we're introducing some cool ways to document your adventures. There will be a communal journal and (should funding grant it) a polaroid camera for checkout, which have the handy ability to document cool things "off the grid". Mystery's half the fun.
 
 Adventure items available in the room of Charlie Weiss, EH2W, first door on your left.
