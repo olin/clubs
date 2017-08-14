@@ -1,6 +1,6 @@
 # clubs
 A list of Student Organizations at Olin and past and current club charters.
-To contact any club or organization, contact the current Director of Clubs and Organizations, Joe Sutker, at [joe@students.olin.edu](mailto:joe@students.olin.edu).
+To contact any club or organization, contact the current Director of Clubs and Organizations, Lydia Zuehsow, at [lydia.zuehsow@students.olin.edu](mailto:lydia.zuehsow@students.olin.edu).
 
 ## Clubs and Organizations
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2016-2017 school year.
