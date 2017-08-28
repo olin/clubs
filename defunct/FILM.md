@@ -1,5 +1,5 @@
 #FILM
-*Last modified 2015-09-08*
+*Last modified 2016-08-09*
 
 ##Purpose
 To provide a setting for Olin students to view and discuss well received films that did not reach widespread audiences. FILM meets on Wednesdays at 10:00 pm in the Olin auditorium. The majority of films shown are relatively recent and we are welcome to requests.

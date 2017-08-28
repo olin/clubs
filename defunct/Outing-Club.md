@@ -1,5 +1,5 @@
 #Outing Club
-*Last modified 2014-04-09*
+*Last modified 2016-09-02*
 
 ##Purpose
 Facilitate Olin student enjoyment of the great outdoors through organizing camping and hiking trips, as well as providing a stock of gear for Olin students to borrow and use.
@@ -9,9 +9,10 @@ By some definitions, the entire school -- anyone can borrow our equipment or go 
 
 ##Officers and Roles:
 Tsar:  Makes sure things happen, and generally keeps an eye on the gear room.  Usually assisted by a few excited and outdoorsy Oliners in handling logistics, but there's no other official officer-ship.
+Vice-Tsar: Same as Tsar, but less respect.
 
 ##Transition Protocol
-Either held for another year or assigned in May by outgoing president to another Olin student who has demonstrated interest in the outdoors.  If the president is a senior, they are strongly encouraged to nominate a VP who is not a senior for knowledge transfer.
+Either held for another year or assigned in May by outgoing president to another Olin student who has demonstrated interest in the outdoors.  If the Tsar is a senior, they are strongly encouraged to nominate a VT who is not a senior for knowledge transfer.
 
 ##Club Materials, Purchases and Space
 Storage space shared with Adventure Club and SCUBA club in WH2W.  We own several tents, sleeping bags, backpacks, etc. that are open for student body use.
