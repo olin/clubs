@@ -1,4 +1,4 @@
-# Olin FireOFAC
+# Olin Fire Arts Club (OFAC)
 *Last modified 2017-06-13*
 
 ## Purpose
