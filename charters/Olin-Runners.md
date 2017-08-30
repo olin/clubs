@@ -1,6 +1,6 @@
 # Olin Runners
 
-*Last modified September 2nd, 2016*
+*Last modified July 15th, 2017*
 
 
 ## Purpose
