@@ -1,5 +1,5 @@
 #Kitchen Club
-*Last modified 2016-06-07*
+*Last modified 2017-08-24*
 
 ##Purpose
 The goal of the club is to provide Olin students with good cooking equipment and fun cooking/baking events.  
