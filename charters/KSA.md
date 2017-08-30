@@ -9,6 +9,7 @@ To promote Korean cultural awareness, to build a network among Korean Oliners an
 Jee Hyun Kim (class of 2018)
 JongWoo Nam (class of 2018)
 TaeJin Kim (class of 2018)
+Lydia Zuehsow (class of 2019)
 
 ## Officers and Roles
 Organizer: Taejin Kim
