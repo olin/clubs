@@ -1,5 +1,5 @@
 ##SOFT ROBOTIS CLUB
-*Last modified 2017-01-18*
+*Last modified 2017-08-28*
 
 ##Purpose
 
