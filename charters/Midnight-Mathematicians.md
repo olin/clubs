@@ -1,5 +1,5 @@
 # Midnight Math
-*Last modified 2015-06-01*
+*Last modified 2017-08-30*
 
 ## Purpose
 At Olin, math is generally perceived as a means to an end. A field of mathematics is not deemed worth studying unless some immediate usefulness can be gleaned from it. The Midnight Mathematicians intend to be a counterpoint to this mentality. Alongside their regular math curriculum, we believe students deserve a glimpse at more extraordinary kinds of mathematics, even if the application of this math is not immediately obvious.
