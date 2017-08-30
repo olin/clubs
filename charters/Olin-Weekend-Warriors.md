@@ -1,5 +1,5 @@
 # Olin Weekend Warriors
-*Last modified 2016-09-04*
+*Last modified 2017-08-30*
 
 ## Purpose
 
