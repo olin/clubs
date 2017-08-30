@@ -1,5 +1,5 @@
 #GROW
-*Last modified 2016-09-01*
+*Last modified 2016-05-12*
 
 ## Purpose
 GROW is a student collective for making the world a more environmentally sustainable place. We meet weekly for dinner discussions and project check-ins. GROW will also strive to encourage other community members to be more thoughtful in their actions by encouraging sustainable choices.GROW will support multiple projects based on interests of members.
