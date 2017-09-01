@@ -20,7 +20,7 @@ Senior Members: Those who are returning members have additional leadership roles
 Because we are such a small club the president for the following year will be mutually decided in the spring semester and the current president will begin to transition roles to the new president.
 
 ## Club Materials Purchases and Spaces
-Material purchases are typically limited to USB flash drives and any other hardware necessary for hosting our CS workshops for middle school students
+Material purchases are typically limited to USB flash drives and any other hardware (or potentially software) necessary for hosting our CS workshops for middle school students, as well as food provided to students at workshops. 
 
 ## Events and Activities
 Weekly meetings to plan events and develop new curriculum. 
