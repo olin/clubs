@@ -1,8 +1,8 @@
 #The Splendiferous Sixpenny Steampunk Society
-*Last modified 2016-09-02*
+*Last modified 2017-09-01*
 
 ##Purpose: 
-The purpose of this fine Society shall be the exploration of, enjoyment of, and education about all things Steampunk. Our semi-fortnightly meetings will be occupied by sharing, discussing, and creating Steampunk media. 
+The purpose of this fine Society shall be the exploration of, enjoyment of, and education about all things Steampunk. Our fortnightly meetings will be occupied by sharing, discussing, and creating Steampunk media. 
 
 ##Membership: 
 Any one with an interest in Steampunk of any form may consider themselves a member. Experience aboard airships not required.
@@ -17,7 +17,7 @@ Should the Airship Captain need to relinquish command for any reason, including 
 The Captain is responsible for the Society’s and Airship’s stores. Members will share costume items, literary and artistic materials, and crafting and decorative components which are donated to or purchased on behalf of the Society. A list of community materials shall be kept in the Log-Book.
 
 ##Events and Activities: 
-At each regularly-scheduled meeting, a topic of interest shall be presented and discussed, in order that the club might further its purpose of exploration, enjoyment, and education. Meeting times may also be spend on crafting, costuming, colloquy, roleplay, or any other Steampunk-flavored pursuit. In addition to or in place of the semi-fortnightly meetings, the Society will also attend local Steampunk gatherings. Dandy finery is encouraged but not required at any and all Society meetings.
+At each regularly-scheduled meeting, a topic of interest shall be presented and discussed, in order that the club might further its purpose of exploration, enjoyment, and education. Meeting times may also be spent on crafting, costuming, colloquy, roleplay, or any other Steampunk-flavored pursuit. In addition to or in place of the fortnightly meetings, the Society will also attend local Steampunk gatherings. Dandy finery is encouraged but not required at any and all Society meetings.
 
 ##Amendment Procedures:
 The current copy of this charter must be kept available to all of the Society’s members, in the Log-Book. The Captain may amend it at will, provided the members are notified. 
