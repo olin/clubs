@@ -1,5 +1,5 @@
 #Lolin
-*Last modified 2016-07*
+*Last modified 2017-09*
 
 ##Section 1: Name and Purpose
 __LoLin!__ (League of Legends at Olin) is a club consisting of members of Olin College of Engineering who play, watch, or follow the game League of Legends. The club's purpose is to collect summoners on campus to play, watch, and learn together, and provide resources to form teams. The main purpose is to provide a vehicle for enjoying the game.
@@ -50,4 +50,4 @@ Any club officer or club member does not have the right to incur any debt or bec
 If a clause needs to be added, changed, or removed to this constitution, it will be decided upon with input from all of the core officers and the membership, and if such an addition needs to be made that constitutes a major change to the constitution, a majority vote will decide.
 
 ##Section 8: Point of Contact
-Kevin Zhang is the main point of contact and responsible party for the maintenance of LoLin! as an organization for the 2016-2017
+Max Wei is the main point of contact and responsible party for the maintenance of LoLin as an organization for the 2017-2018 school year.
