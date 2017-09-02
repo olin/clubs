@@ -1,5 +1,5 @@
 
-#Archery Recreation Club (ARC)
+# Archery Recreation Club (ARC)
 *Last modified 2017-09-02*
 
 ## Purpose
