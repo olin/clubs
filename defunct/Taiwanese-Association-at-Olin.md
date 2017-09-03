@@ -1,5 +1,5 @@
 #TAO: Taiwanese Association at Olin
-*Last modified 2015-05-11*
+*Last modified 2017/9/2*
 
 ##Purpose
 The purpose of Taiwanese Association at Olin is to explore and celebrate Taiwanese culture in the Olin community. 
