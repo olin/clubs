@@ -1,11 +1,14 @@
-# Cryptography Club
+# Hackers and Cybersecurity Kids of Olin (HACK Olin)
 *Last modified 2015-09-07*
 ## Purpose
-The goal of cryptography club is to get interested Olin students involved in the important fields of cryptography and cyber security. Main events will involve participating in capture the flag competitions and learning about security and cryptography.
+The goal of this club is to get interested Olin students involved in the important fields of cryptography and cyber security and to setup and maintain student-run attack lab. Main events will involve participating in capture the flag competitions and learning about security and cryptography. Some members will also be attack lab NINJA's.
 ## Membership
 Meet once a week or biweekly after October. Subject to meet additional times around competition time. Anyone with interest is encouraged to attend. Mailing list is live at hackers@olin.edu.
 ## Officers and Roles
-Organizer for talks and mailing list, the group participating in competition will have roles (monitoring and defense, attacking, etc.), treasurer to deal with money logistics for group events. 
+Organizer for talks and mailing list, the group participating in competition will have roles (monitoring and defense, attacking, etc.), treasurer to deal with money logistics for group events. The following roles are involved in organization and communication with the res of the club
+* Head Cylon: Sophia Nielsen
+* Official Hacker Dude: Vicky McDermott
+* Code-Wrangling Monkey: Nick Sherman
 ## Transition Protocol
 In the month of December, the Organizer must designate a successor, who will take over immediately until the end of the next semester. At that time, the new Organizer will inform the SAC Clubs and Organizations Chair that the transition has occurred.
 ## Club Materials, Purchases and Space
