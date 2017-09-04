@@ -3,59 +3,71 @@ A list of Student Organizations at Olin and past and current club charters.
 To contact any club or organization, contact the current Director of Clubs and Organizations, Lydia Zuehsow, at [lydia.zuehsow@students.olin.edu](mailto:lydia.zuehsow@students.olin.edu).
 
 ## Clubs and Organizations
-These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2016-2017 school year.
+These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2017-2018 school year.
 - Acronym
 - Adventure Club
-- Aerial Competitive Racing at Olin
-- Aero 
 - Aquaponics
-- Art Club
-- Art With Heart
-- Astronomy Club
-- Babson-Olin Catholic Association 
-- Badminton Club
 - Board Game Club
-- BOW Climbing Organization
-- Cardistry Club
-- Chainmail and a Movie
-- Cryptography Club
-- Dungeons and Dragons Club
-- Forum
-- Franklin W Olin Players
+- FILM
 - FUN Club
-- German Club
 - Glass Club
-- Go Club
 - GROW
+- Hackathon Club
 - igniteCS
-- Jewish Organization at Olin
+- Indian Club
 - Kitchen Club
+- Korean Student Association
 - League of Legends at Olin
-- Magic the Gathering Club
-- Midnight Riders
-- Olin Aerials and Circus
+- Make a Game, Make Assets
+- Midnight Mathematicians
 - Olin Christian Fellowship
-- Olin Dance Project
 - Olin Fire Arts Club
-- Olin Flying Club
-- Olin Indian Club
 - Olin Performance Improv Und Magick
 - Olin Quiz Bowl
 - Olin Rock Orchestra
-- Olin Runners
 - Olin Weekend Warriors
-- Olinomic
 - OPEN
-- Outing Club
 - Pokemon Club
-- PowerChords
+- Pretentious Podcasts and Painting with Parmesan
+- Puzzle Club
+- Running Club
+- Sandwich Discourse Club
+- Soft Robotics Club
 - Splendiferous Sixpenny Steampunk Society
-- Stay Late And Create
-- Tea on Three
-- Totally Awesome and Ridiculous Doctor-Inspired Stuff
-- Volleyball Club
-- Weapons Handling And Combat Kakistocracy
+- Taboo
+- Taiwanese Association at Olin
 - Yarn Oliners Use
+
+These groups are not funded by CCO.
+- Aerial Competitive Racing at Olin (ACRO)
+- Aero Club
+- Art Club
+- Art With Heart
+- Astronomy Club
+- Babson-Olin Catholic Association (BOCA)
+- Badminton Club
+- BOW Climbing Organization
+- Chainmail and a Movie
+- Cryptography Club
+- Dungeons and Dragons Club
+- FORUM
+- Franklin W. Olin Players (FWOP)
+- German Club
+- Go Club
+- Jewish Organization at Olin
+- Magic the Gathering Club
+- Midnight Riders
+- Olin Circus Aerials
+- Olin Dance Project
+- Olin Flying Club
+- Olinomic
+- Outing Club
+- PowerChords
+- Stay Late And Create (SLAC)
+- Volleyball Club
+- Totally Awesome and Ridiculous Doctor-Inspired Stuff (TARDIS)
+- Volleyball Club
+- Weapons Handling and Combat Kakistocracy (WHACK)
 
 ## Other Student Groups
 - The Foundry
@@ -79,3 +91,5 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Committee for Clubs and Organizations (CCO)
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
+
+*Last updated Sept 3, 2017*
