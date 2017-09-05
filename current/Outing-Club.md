@@ -1,5 +1,5 @@
 #Outing Club
-*Last modified 2016-09-02*
+*Last modified 2017-09-05*
 
 ##Purpose
 Facilitate Olin student enjoyment of the great outdoors through organizing camping and hiking trips, as well as providing a stock of gear for Olin students to borrow and use.
