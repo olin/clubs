@@ -1,5 +1,5 @@
 # Olin Christian Fellowship
-*Last modified 2015-05-01*
+*Last modified 2017-08-30*
 
 ## Purpose
 

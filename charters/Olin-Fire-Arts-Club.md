@@ -1,5 +1,5 @@
-# Olin FireOFAC
-*Last modified 2016-08-09*
+# Olin Fire Arts Club (OFAC)
+*Last modified 2017-06-13*
 
 ## Purpose
 
@@ -11,7 +11,7 @@ Members attend practice once a week and burns every other week, and we do perfor
 
 ## Officers and Roles
 
-President: Riley Chapman VP: Paige Pfenninger
+President: Paige Pfenninger VP: Connor Novak
 
 ## Transition Protocol
 

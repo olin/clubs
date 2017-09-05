@@ -1,5 +1,5 @@
 # Chain Mail and a Movie
-*Last modified 2016-01-21*
+*Last modified 2016-09-07*
 ## Purpose
 We will make various chain mail objects, mainly jewelry, and eventually watch movies as we work. The goal is to enjoy a relaxing evening while being creative and producing something of value. We will meet on Friday nights for two to three hours, to relieve the stress of the school week. Most jewelry only takes two to three hours to make. We will have access to steel originally, and then copper and aluminum as our members learn various techniques.
 ## Membership

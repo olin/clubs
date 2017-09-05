@@ -1,72 +1,73 @@
 # clubs
-A list of Student Organizations at Olin, also club charters.
-To contact any club or organization, contact the current Director of Clubs and Organizations, Joe Sutker, at [joe@students.olin.edu](mailto:joe@students.olin.edu).
+A list of Student Organizations at Olin and past and current club charters.
+To contact any club or organization, contact the current Director of Clubs and Organizations, Lydia Zuehsow, at [lydia.zuehsow@students.olin.edu](mailto:lydia.zuehsow@students.olin.edu).
 
 ## Clubs and Organizations
-These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2015-2016 school year.
-- The ACRONYM
-- Adventure Club	
-- Aero
+These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2017-2018 school year.
+- Acronym
+- Adventure Club
+- Aquaponics
+- Board Game Club
+- FILM
+- FUN Club
+- Glass Club
+- GROW
+- Hackathon Club
+- igniteCS
+- Indian Club
+- Kitchen Club
+- Korean Student Association
+- League of Legends at Olin
+- Make a Game, Make Assets
+- Midnight Mathematicians
+- Olin Christian Fellowship
+- Olin Fire Arts Club
+- Olin Performance Improv Und Magick
+- Olin Quiz Bowl
+- Olin Rock Orchestra
+- Olin Weekend Warriors
+- OPEN
+- Pokemon Club
+- Pretentious Podcasts and Painting with Parmesan
+- Puzzle Club
+- Running Club
+- Sandwich Discourse Club
+- Soft Robotics Club
+- Splendiferous Sixpenny Steampunk Society
+- Taboo
+- Taiwanese Association at Olin
+- Yarn Oliners Use
+
+These groups are not funded by CCO.
+- Aerial Competitive Racing at Olin (ACRO)
+- Aero Club
 - Art Club
-- Art in Action!
-- Art With Heart (AwH)
+- Art With Heart
+- Astronomy Club
 - Babson-Olin Catholic Association (BOCA)
-- Badminton Club	
-- BOW Climbing Organization	(BCO)
-- Breakfast and NPR	
-- Chainmail and a Movie	
-- Cheese Club	
-- Competitive Programming Club
-- Computing Conversations	
-- Creative Cartography Club	
-- Curb Club	
-- Franklin W. Olin Cyber Defenders (FWOCD)
-- Cultural Conversations
-- Danger, Adventure, Nerds, and Knitting Club (DANK)
-- Design For America (DFA)
-- Dungeons and Dragons Club (DnD)
-- Earth and Table (EaT)
-- FILM (FILM)
-- Filmmakers Unite Now! (FUN)
+- Badminton Club
+- BOW Climbing Organization
+- Chainmail and a Movie
+- Cryptography Club
+- Dungeons and Dragons Club
+- FORUM
 - Franklin W. Olin Players (FWOP)
 - German Club
-- Glass Club	
-- Greening Olin	GO Bikes!
-- GROW
-- Ink, Inc	
-- Jewish Organization at Olin (JOO)
-- Kitchen Club	
-- League of Legends at Olin	(LoLin)
-- Midnight Mathematicians
-- Midnight Riders	
-- Net Impact
-- Olin Christian Fellowship (OCF)
-- Olin Dance Project (ODP)
-- Olin Fire Arts Club (OFAC)
-- Olin Indian Club	
-- Olin Model United Nations (OMUN)
-- Olin Performance Improv Und Magick (OPIUM)
-- Olin Rock Orchestra (ORO)
-- Olin Weekend Warriors (OWW)
-- OPEN (OPEN)
-- Outing Club (OC)
-- Pool Club	
+- Go Club
+- Jewish Organization at Olin
+- Magic the Gathering Club
+- Midnight Riders
+- Olin Circus Aerials
+- Olin Dance Project
+- Olin Flying Club
+- Olinomic
+- Outing Club
 - PowerChords
-- Sailing Club
-- Skate Club
-- Society of Women Engineers (SWE)
-- South Park Club	
-- Speak.	
-- Splendiferous Sixpenny Steampunk Society (Ssss)
-- Stay Late and Create (SLAC)
-- Taboo	
-- Taiwanese Association at Olin (TAO)
-- Tea on Three (T3)
+- Stay Late And Create (SLAC)
+- Volleyball Club
 - Totally Awesome and Ridiculous Doctor-Inspired Stuff (TARDIS)
-- UV Club
-- Volleyball Club	
-- Weapons Handling and Combat Kakistocracy (Fencing Club) (WHACK)
-- Yoga/Meditation Group
+- Volleyball Club
+- Weapons Handling and Combat Kakistocracy (WHACK)
 
 ## Other Student Groups
 - The Foundry
@@ -79,12 +80,9 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 
 ### Project Teams
 - Phoenix Racing (Baja)
-- Olin Robotic Sailing (ORS)
-- Research in Electric Vehicles at Olin (REVO)
+- Olin Aquatic Robotic Systems (OARS)
+- Olin Electric Motorsports (Formula)
 - Human-Powered Vehicles (HPV)
-
-### Research Groups
-- Robotics Research @ Olin (Olin Intelligent Vehicles Lab)
 
 ### Student Government
 - Council of Olin Representatives (CORe)
@@ -93,3 +91,5 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Committee for Clubs and Organizations (CCO)
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
+
+*Last updated Sept 3, 2017*
