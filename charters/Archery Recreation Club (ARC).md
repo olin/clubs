@@ -1,6 +1,6 @@
 
 # Archery Recreation Club (ARC)
-*Last modified 2017-09-02*
+*Last modified 2017-09-06*
 
 ## Purpose
 To teach and facilitate the sport of archery.
