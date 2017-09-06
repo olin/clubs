@@ -1,8 +1,8 @@
-# Olin Combat Robotics 
-*Last modified 04-03-2017
+# Olin Combat Robotics Association
+*Last modified 08-13-2017
 ## Purpose
 
-Olin Combat Robotics Club organizes combat robotics events at Olin.
+The Olin Combat Robotics Association [OCRA] organizes combat robotics events at Olin.
 
 ## Membership
 
