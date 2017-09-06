@@ -1,5 +1,5 @@
-# Badminton Club	
-*Last Updated 2016-09-10*
+﻿# Badminton Club	
+*Last Updated 2017-09-06*
 
 ##Purpose
 The goal of Badminton club is to provide an environment in which people interested in badminton can come together and play together. We plan to meet weekly, and go to PepsiCo court at the Babson Gym. Depending on interest, more serious members can become members of the Magnus Badminton Club(only 7 minutes away from Olin) to play with other professional players. A big priority is to coordinate with Babson's club, perhaps even host joint tournaments.	
