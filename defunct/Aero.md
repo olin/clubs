@@ -1,24 +1,23 @@
 #Aero
-*Last modified 2016-08-29*
+*Last modified 2017-09-7*
 
 ## Purpose
-Olin Aero is a project team centered around the design and fabrication of autonomous aerial vehicles. ("UAVs")
+Olin Aero is an organisation that seeks to enable students to develop their understanding of, and passion for Aerial systems. 
 
 ## Membership 
-Anyone who is interested in autonomous aerial vehicles and is willing to show up to at least two meetings a month.
+Membership is open to anyone. Those seeking to lead projects must propose a timeline to Aero leadership, and make a genuine effort to follow it. They will also be responsible for anyone on their subteam.
 
 ## Officers and Roles
-The club president (hereafter referred to as the "Sky Captain") will manage the mailing list, has final say in club decisions, and has the authority to appoint any other club officers as he or she sees fit.
+Aero will begin this year with a President, who is in charge of the mailing list and finances. Aero seeks to expand its executive team to 5 members by Spring semester. This team will be served by Aero members that best represent existing Aero projects, and responsibilities will be shared among the 5 members.
 
 ## Transition Protocol
-At will the Sky Captain may designate any member of the club as the next Sky Captain; the outgoing Sky Captain must then notify the Director of Clubs and Organizations, and the new Sky Captain will take charge as of the club's next meeting.
+Initial appointments to the executive team will be made by the existing club President. Once the executive team has been implemented, the responsibility for appointing new members shall fall to them. 
 
 ## Club Materials, Purchases and Space
-Olin Aero's primary expenditures are building material for its air vehicles. Aero will seek out funding from corporate sponsors as well as utilizing standard club funding sources.
-Aero's meeting space is the library.
+Club materials are currently stored in the RoboLab with permission of Prof. Dave Barrett. Aero will seek to acquire LPB space as the amount of space needed for projects increases this year. Expenditure for this year will include Materials for aerial vehicles, fees for competition participation, and potentially travel to said competitions.
 
 ## Events and Activities
-Olin Aero will hold weekly meetings to discuss club affairs and to work on projects, as well as occasional work days to conduct additional work on projects.
+Aero will hold weekly all hands meetings where all members will share progress on their projects. Subteam leaders will be responsible for setting their own meeting and work times to best accomodate their team members.
 
 ## Amendment Procedure
-Amendments to this charter can be proposed at any time. If an amendment receives a vote of support from at least 50% of the membership, it passes and the revised charter will be sent to the SAC Clubs and Organizations Chair.
+Amendments to this charter can be proposed at any time. If an amendment receives a majority vote from the executive team, the charter will be amended, and the resided version will be sent to the SAC clubs and Orgs chair.
