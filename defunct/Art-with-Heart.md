@@ -1,5 +1,5 @@
 # Art with Heart
-*Last modified 2016-09-01*
+*Last modified 2017-09-07*
 
 ## Membership
 
@@ -9,7 +9,7 @@ In order to make these events run smoothly, it is expected that members will att
 
 ## Officers
 
-There are 7 officers who will take point on the organization of all Art with Heart activities. The Secretary manages minutes for each AwH meeting and inventory for the club as a whole. The Treasurer keeps track of donations and ticket sales, making sure that all money given to AwH is accounted for and placed in the AwH account immediately after acquisition. Documentation of AwH funds is the responsiblity of the Treasurer. The Business Manager takes care of AwH's social media presence - taking photos, posting to the AwH instagram, capturing video of performances, etc. - and also covers community outreach. The Gallery Lead is in charge of ensuring that there are artists willing to contribute to the gallery, and caring for all gallery pieces as needed. The Performance Lead is in charge of ensuring that each performance has an adequate number of performers and that the performance will run smoothly. The President is the spearhead of new events, especially volunteer events, and also exists to help other officers complete the tasks assigned to them. If someone is lost or overwhelmed, they should be able to turn to the President. The President is also in charge of making sure the charter is up-to-date at the end of each year so that the next year can begin with a freshly evaluated charter.
+There are six officers who will take point on the organization of all Art with Heart activities. The Secretary manages minutes for each AwH meeting and inventory for the club as a whole. The Treasurer keeps track of donations and ticket sales, making sure that all money given to AwH is accounted for and placed in the AwH account immediately after acquisition. Documentation of AwH funds is the responsiblity of the Treasurer. The Business Manager takes care of AwH's social media presence - taking photos, posting to the AwH instagram, capturing video of performances, etc. - and also covers community outreach. The Gallery Lead is in charge of ensuring that there are artists willing to contribute to the gallery, and caring for all gallery pieces as needed. The Performance Lead is in charge of ensuring that each performance has an adequate number of performers and that the performance will run smoothly. The President is the spearhead of new events, especially volunteer events, and also exists to help other officers complete the tasks assigned to them. If someone is lost or overwhelmed, they should be able to turn to the President. The President is also in charge of making sure the charter is up-to-date at the end of each year so that the next year can begin with a freshly evaluated charter.
 
 ## Transition Protocol
 
