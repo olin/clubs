@@ -1,5 +1,5 @@
 ##ART CLUB
-*Last modified 2016-09-01*
+*Last modified 2017-09-08*
 
 ##Purpose
 
@@ -23,7 +23,7 @@ Art club supplies will be stored in the second floor closet in East Hall. Fundin
 
 ##Events and Activities
 
-We will host weekly meetings where members of the Olin community can use art club materials to make art.
+We will host monthly meetings where members of the Olin community can use art club materials to make art.
 
 ##Amendment Procedure
 
