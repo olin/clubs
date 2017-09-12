@@ -1,5 +1,5 @@
 #WHACK: Weapons-Handling-And-Combat-Kakistocracy (Fencing)
-*Last modified 2016-09-04*
+*Last modified 2017-09-07*
 
 ##Purpose
 The purpose of WHACK is to allow Olin students to have a place to fence on campus. Many Oliners fenced before coming to school, but it is very difficult to travel to any clubs in the area.
@@ -17,10 +17,10 @@ At the end of each semester, if the President decides that they don't want to ru
 Club materials are currently stored in blue bins which move around throughout campus depending on where the club meets. Next year, it would be lovely to have some kind of more permanent storage space (which we are working on). Next year, it is expected that there will be more equipment purchases as the club increases in size.
 
 ##Events and Activities
-WHACK meets once a week just to have fun and fence
+WHACK meets roughly once a week for people to practice fencing and participate in bouts. Meeting times will be at the discretion of the president and open to suggestion by members.
 
 ##Amendment Procedure
 The charter of WHACK is pretty much decided by the President. However, if any members have the opinion that it should be changed, then they can bring that issue to the President and have it examined for change.
 
-##Other
-There is a possibility that WHACK may change it's name in the coming year to something more thematically appropriate.
+##Disbanding
+In the event WHACK disbands, the materials should be stored until a new fencing club is created. The materials are fragile if used incorrectly, and it is important that they be treated with the respect they deserve.
