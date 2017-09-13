@@ -13,10 +13,10 @@ The club is divided into different subsystems required for rocket design. As of 
 **Transition Protocol**
 The club shall go through voting procedure before the end of the final assessments period of the Spring semester. For the following procedure it is assumed that all seniors are unavailable for election (because they will be gone). 
 
-*Subsystem Leads Election Process*
+*Subsystem Leads Election Process*:
 members of the subsystems will vote to elevate one of their own to the position of subsystem lead for their particular subsystem (e.g. Fabrication will chose a Fabrication lead for the next year). The person elected to be subsystem lead can be vetoed however by an agreement between the current Project Manager and Systems Engineer. This can be overturned with a unanimous vote by all current subsystem leads.
  
- *Project Manager and Systems Engineer Election Process*
+ *Project Manager and Systems Engineer Election Process*:
 All current subsystem leads, the current Project Manager, and the current Systems Engineer may nominate any one member of the club to the position of Project Manager and Systems Engineer respectively. These same people then vote on the nominees (pending they accept the nomination).
 
 **Club Materials, Purchases, and Space**
