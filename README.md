@@ -6,10 +6,21 @@ To contact any club or organization, contact the current Director of Clubs and O
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2017-2018 school year.
 - Acronym
 - Adventure Club
+- Aero Club
 - Aquaponics
+- Archery Recreation Club
+- Art Club
+- Art With Heart
+- Badminton Club
 - Board Game Club
+- BOW Climbing Organization
+- Cardistry Club
+- Chainmail and a Movie
+- Dungeons and Dragons Club
+- Experimental Vocal Ensemble
 - FILM
 - FUN Club
+- Franklin W. Olin Players (FWOP)
 - Glass Club
 - GROW
 - Hackathon Club
@@ -20,54 +31,53 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - League of Legends at Olin
 - Make a Game, Make Assets
 - Midnight Mathematicians
+- Midnight Riders
+- Olin Circus Aerials
 - Olin Christian Fellowship
+- Olin Combat Robotics Association
+- Olin Dance Project
+- Olin Disc Golf
 - Olin Fire Arts Club
+- Olin Indian Club
 - Olin Performance Improv Und Magick
 - Olin Quiz Bowl
 - Olin Rock Orchestra
+- Olin Runners
 - Olin Weekend Warriors
+- Olin Pitmasters
+- Olinomic
 - OPEN
+- Outing Club
 - Pokemon Club
+- PowerChords
 - Pretentious Podcasts and Painting with Parmesan
 - Puzzle Club
-- Running Club
 - Sandwich Discourse Club
 - Soft Robotics Club
 - Splendiferous Sixpenny Steampunk Society
+- Stay Late And Create (SLAC)
+- Swimming Club
 - Taboo
 - Taiwanese Association at Olin
+- Tea-on-Three Club
+- Weapons Handling and Combat Kakistocracy (WHACK)
 - Yarn Oliners Use
+- Terroir Club
 
 These groups are not funded by CCO.
 - Aerial Competitive Racing at Olin (ACRO)
-- Aero Club
-- Art Club
-- Art With Heart
 - Astronomy Club
 - Babson-Olin Catholic Association (BOCA)
-- Badminton Club
-- BOW Climbing Organization
-- Chainmail and a Movie
 - Cryptography Club
-- Dungeons and Dragons Club
 - FORUM
-- Franklin W. Olin Players (FWOP)
 - German Club
 - Go Club
 - Jewish Organization at Olin
 - Magic the Gathering Club
-- Midnight Riders
-- Olin Circus Aerials
-- Olin Dance Project
 - Olin Flying Club
-- Olinomic
-- Outing Club
-- PowerChords
-- Stay Late And Create (SLAC)
 - Volleyball Club
 - Totally Awesome and Ridiculous Doctor-Inspired Stuff (TARDIS)
 - Volleyball Club
-- Weapons Handling and Combat Kakistocracy (WHACK)
 
 ## Other Student Groups
 - The Foundry
@@ -92,4 +102,4 @@ These groups are not funded by CCO.
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
 
-*Last updated Sept 3, 2017*
+*Last updated Sept 17, 2017*
