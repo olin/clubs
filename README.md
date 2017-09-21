@@ -73,7 +73,6 @@ These groups are not funded by CCO.
 - FORUM
 - German Club
 - Go Club
-- Jewish Organization at Olin
 - Magic the Gathering Club
 - Olin Flying Club
 - Volleyball Club
