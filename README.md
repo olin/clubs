@@ -26,6 +26,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Hackathon Club
 - igniteCS
 - Indian Club
+- Jewish Organization at Olin
 - Kitchen Club
 - Korean Student Association
 - League of Legends at Olin
