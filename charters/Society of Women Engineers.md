@@ -13,6 +13,12 @@ The Olin SWE chapter has an executive board made up of 4 individuals. The 2017/2
   * Vice President: Elena Meyerson
   * Treasurer: Allison Basore
   * Secretary: Vicky McDermott
+  
+### Funds
+The Olin SWE Members will fundraise throughout the year to raise money for the chapter. This money, in addition to the rebate from the national SWE organization will be used to fund the annual trip to the national SWE  conference. The rebate arrives every semester as part of being an official SWE chapter. Furthermore, donations and grant awards will also be used to fund this trip.
+
+The chapter will also use funds from  CCO to support local chapter meeting supplies and campus activities for members.
+
 
 ### Transition Protocols
 Elections for executive board positions are held at the end of spring semester each year. First, students are nominated for positions, then all SWE members vote. Executive board members should not be Seniors.
