@@ -9,7 +9,7 @@ To teach and facilitate the sport of archery.
 Members will have the chance to participate in the sport of archery with a coach present. Members can self-select to become competitors. They will compete in local and regional competitions. 
 
 ## Officers and Roles
-Coach: Hannah Kolano; Board Members: Hannah Kolano, Lydia Zuehsow, Kaitlyn Keil
+Coach (single) and Board Members (multiple)
 
 ## Transition Protocol
 Board members will be nominated by members and voted on. To become a coach, a member must become at least a Level 1 instructor certified by USA Archery. 
