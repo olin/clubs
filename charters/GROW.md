@@ -1,4 +1,4 @@
-#GROW
+# GROW
 *Last modified 2016-05-12*
 
 ## Purpose

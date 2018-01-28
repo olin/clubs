@@ -1,4 +1,4 @@
-#Pokémon Club
+# Pokémon Club
 *Last modified 2017-08-24*
 
 ## PokéNames
@@ -14,7 +14,7 @@ To celebrate and play Pokémon in all its forms.
 Members are anybody on the [PokéMailingList](https://lists.olin.edu/mailman/listinfo/pokemon). Members don't have any particular obligations. They also don't have to be Olin students.
 
 ## PokéOfficers
-The Pokémon Professor serves as the person in charge of the club and is "considered an expert in their respective region." They have whatever powers they need to do Pokéthings. They can appoint other PokéPositions or even grant PokéTitles as they wish. 
+The Pokémon Professor serves as the person in charge of the club and is "considered an expert in their respective region." They have whatever powers they need to do Pokéthings. They can appoint other PokéPositions or even grant PokéTitles as they wish.
 
 ## PokéTransitions
 If the Pokémon Professor can no longer serve in their role, they will appoint a successor in a manner of their choosing. You know, a PokéSuccessor.
