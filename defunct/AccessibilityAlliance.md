@@ -24,7 +24,7 @@ As an extra note, I have no idea what I'm doing. Just to be clear. I'm going off
 * Have fun!
 
 ## Officers and Roles
-Prime Minister of Accessibility: The person who organizes events and money and things, and is head boss kind of. Currently Charlie Weiss.
+Prime Minister of Accessibility: The person who organizes events and money and things, and is head boss kind of. 
 Other roles as requested.
 
 ## Transition Protocol
@@ -32,8 +32,8 @@ Prime Minister or club members will choose a new leader.
 
 ## Club Materials, Purchases, and Space
 Materials:
-* Charliew's room, if you follow its rules
-* Adva Waranyuwat (probably, she tends to care about accessibility, being the Assistant Dean of Student Affairs and all)
+* Current PM's room (will change when PM changes), if you follow its rules
+* Members of StAR, with their consent
 
 To-be-purchased:
 * So many things
