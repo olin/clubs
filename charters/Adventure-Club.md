@@ -5,8 +5,6 @@ _**Note: Charlie wrote this and doesn't really know what she's doing, so suggest
 ## Purpose
 Adventure is out there! If you agree, join. We're here to invite, unite, and represent all adventurers of Olin. This club is known to host the annual Adventure Club Scavenger Hunt, and this year we're introducing some cool ways to document your adventures. There will be a communal journal and (should funding grant it) a polaroid camera for checkout, which have the handy ability to document cool things "off the grid". Mystery's half the fun.
 
-Adventure items available in the room of Charlie Weiss, EH2W, first door on your left.
-
 ## Membership
 There is a mailing list, but anyone with a true adventurous spirit may join. However, there are some good adventure rules to follow. MIT's Hacker Code of Ethics is a good reference if you know where to find it, and it goes basically as follows:
 
@@ -27,7 +25,7 @@ As an extra note, some people liken being exclusive to being cool, and intention
 * Have fun!
 
 ## Officers and Roles
-Prime Minister of Adventure: The person who organizes events and money and things. Currently Charlie Weiss.
+Prime Minister of Adventure: The person who organizes events and money and things. 
 Other roles as requested.
 
 ## Transition Protocol
