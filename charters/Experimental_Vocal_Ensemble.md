@@ -35,6 +35,7 @@ Materials:
 Purchases: 
 - Binders
 - Sheet music
+
 Spaces:
 - Rehearsal will most likely be held in room AC 318 (unless otherwise decided upon)
 
