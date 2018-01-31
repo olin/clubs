@@ -15,10 +15,10 @@ The group will have a president and vice president, as well as a musical directo
 
 President will handle logistics (scheduling, organizing events, communications, etc.)
 
-	Vice President will assist the president in their activities, and will take over
+Vice President will assist the president in their activities, and will take over
 should the president not be available.
 
-	Director will lead the choir and teach music theory and vocal practices where
+Director will lead the choir and teach music theory and vocal practices where
 necessary.
 
 ## Transition Protocol
@@ -28,15 +28,15 @@ Club members will vote at the end of each year who the rising officers will be.
 ## Club Materials, Purchases, and Space
 
 Materials:
-	Piano
-	Binders
-	Sheet music
-	Enthusiasm!
+- Piano
+- Binders
+- Sheet music
+- Enthusiasm!
 Purchases: 
-	Binders
-	Sheet music
+- Binders
+- Sheet music
 Spaces:
-	Rehearsal will most likely be held in room AC 318 (unless otherwise decided upon)
+- Rehearsal will most likely be held in room AC 318 (unless otherwise decided upon)
 
 ## Events and Activities
 
