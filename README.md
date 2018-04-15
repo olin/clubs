@@ -17,6 +17,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Cardistry Club
 - Chainmail and a Movie
 - Dungeons and Dragons Club
+- [European Club](charters/European-Club.md)
 - Experimental Vocal Ensemble
 - FILM
 - FUN Club
@@ -102,4 +103,4 @@ These groups are not funded by CCO.
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
 
-*Last updated Sept 17, 2017*
+*Last updated April 14, 2018*
