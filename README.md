@@ -31,6 +31,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Korean Student Association
 - League of Legends at Olin
 - Make a Game, Make Assets
+- Musicians Learning New Instruments And In A Jazz Band
 - Midnight Mathematicians
 - Midnight Riders
 - Olin Circus Aerials
