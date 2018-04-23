@@ -1,5 +1,5 @@
 # Magic the Gathering Club
-*Last modified 9-12-16*
+*Last modified 4-22-18*
 
 ## Purpose
 To sling spells and walk planes. (And be goddamn nerds by playing a children's card game)
@@ -20,3 +20,6 @@ Boxes of booster product can be purchased by the Grand Arbiter for limited event
 ## Events and Activities
 Drafts should be held at whatever frequency is convenient and affordable, preferably when 6, 8, or 10 people are available.
 Club members are encouraged to organize group outings to FNM and/or prereleases when desired.
+
+## Amendment Procedure
+Amendments to this charter may be proposed by any member of the club at any time, and can be approved by the Grand Arbiter or by a majority consensus of club members.
