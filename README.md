@@ -16,6 +16,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - BOW Climbing Organization
 - Cardistry Club
 - Chainmail and a Movie
+- [Coffee Block](charters/Coffee-Block.md)
 - Dungeons and Dragons Club
 - [European Club](charters/European-Club.md)
 - Experimental Vocal Ensemble
@@ -104,4 +105,4 @@ These groups are not funded by CCO.
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
 
-*Last updated April 14, 2018*
+*Last updated May 8th, 2018*
