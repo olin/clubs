@@ -8,11 +8,7 @@ The purpose of the Olin SWE Chapter is to provide Olin students (of all genders)
 Membership is open to all Olin students.
 
 ### Officers and Roles
-The Olin SWE chapter has an executive board made up of 4 individuals. The 2017/2018 board is made up of:
-  * President: Gwyn Phelps
-  * Vice President: Elena Meyerson
-  * Treasurer: Allison Basore
-  * Secretary: Vicky McDermott
+The Olin SWE chapter has an executive board made up of 4 individuals: President, Vice President, Treasurer and Secretary
   
 ### Funds
 The Olin SWE Members will fundraise throughout the year to raise money for the chapter. This money, in addition to the rebate from the national SWE organization will be used to fund the annual trip to the national SWE  conference. The rebate arrives every semester as part of being an official SWE chapter. Furthermore, donations and grant awards will also be used to fund this trip.

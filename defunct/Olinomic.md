@@ -1,26 +1,22 @@
 # Olinomic
-*Last modified 2016-08-28*
 
 ## Purpose
-Olinomic is Olin's offical game of nomic. Generally speaking, the players try to change the rules of olinomic and win, roughly in that order.
-
-## Rules
-The rules will be located, for the foreseeable future, at [the olinomic repo](https://github.com/olin/olinomic/blob/master/rules.md).
+Olinomic is Olin's official game of Nomic, the game where changing the rules of the game is a move. This "club" seeks to generate fun and nonsense by allowing Oliners to compete in a game whose rules they control through the game. Olinomic is played over the Olinomic mailing list, and the official rules are in the Olinomic repository on Olin's GitHub.
 
 ## Membership
-Membership is whatever the rules currently define the membership to be.
+There are two kinds of members in Olinomic, Players and Observers. While both definitions are subject to change, Players are generally active participants in Olinomic while Observers are members of the mailing list who do not actively participate. At the time of writing this charter, the method for becoming a Player is joining the mailing list and proclaiming to it that one wishes to play Olinomic. Note that Olin alumni can and do also Play Olinomic.
 
 ## Officers and Roles
-There probably exist officers or people with particular roles; they are whatever the rules currently define the officers to be. 
+The most fundamental and constant role in Olinomic is the coveted role of Gamemaster. The Gamemaster is written into the rules and can only be changed by amendment. All other roles such as Chief Justice, Judge, Viscount, Michael Weston, and Michael Westen are very subject to change, as are their methods of appointment. Consult the official rules on GitHub for the most important information.
 
-## Transition Protocol
-The game exists for as long as the rules say the game exists. It's also run by whoever the rules say it's run by. The rules should detail a transition protocol, but they might not. Such an issue should be brought up with players as a suggestion for a rule-change.
+## Transition
+Because Olinomic is played by alumni and students and does not require regular meetings, it continues to function over breaks and thus never requires any transition.
 
-## Club Materials, Purchases and Space
-The game might have materials, purchases, or spaces. They will be detailed in the rules, or at least, known by the officers.
+## Club Materials, Purchases, and Space
+None
 
 ## Events and Activities
-The primary activity of olinomic is playing olinomic according to the rules. The rules may detail other activities or events.
+Olinomic currently occur in turns that have historically ranged in length from one hour to three-hundred days. Observers can observe these and Players can participate in these.
 
 ## Amendment Procedure
-The rules are amended by a process detailed by the rules. This document can be amended as needed by whoever says it needs to be amended. This document can't supercede the rules of olinomic for the purposes of playing olinomic. Functional ammendments to the playing of olinomic should be proposed to the players of olinomic in a way consistent with the rules.
+This charter is not really binding to the club as the official rules are on the Olinomic repository. Therefore, while this charter has been kept intentionally sparse to keep it up to date, it should be ammended whenever the rules diverge so throroughly from their current state that this charter no longer holds true.
