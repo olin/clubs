@@ -8,6 +8,7 @@ The purpose of this club is to create a community of runners that help Oliners:
   1. Get and stay in shape
   2. Find training partners
   3. Share running tips and information
+
 We are also planning to participate in races through NIRCA (the National Intercollegiate Running Club Association).
 
 ## Membership
