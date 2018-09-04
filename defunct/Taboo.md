@@ -1,5 +1,5 @@
 # Taboo
-* Last modified 2017-08-23 *
+* Last modified 2018-09-03 *
 
 ## Purpose
 The purpose of Taboo Club is to promote sex positivity and awareness at Olin. There will be a few one time events and monthly events to encourage people to have open conversation about sexuality and educate people about differing opinions or sexual orientations. This is related to the sexuality mailing list. 
