@@ -1,7 +1,7 @@
 # Franklin W. Olin Players
 
-*Last modified 2017-09-06*
-*To be ammended come Fall Semester*
+*Last modified 2018-09-06*
+*To be ammended come Spring Semester*
 
 ## Mission Statement
 The Franklin W. Olin Players (FWOP) will strive to enhance the culture of the Olin College community through the medium of the performing arts.  FWOP-sponsored activities will be student-driven, emphasize the Olin ideal of balanced student interests, and serve to reach and involve the entire Olin community.
