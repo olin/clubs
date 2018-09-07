@@ -49,6 +49,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Olin Runners
 - Olin Weekend Warriors
 - Olin Pitmasters
+- [olin.build](charters/olin.build.md)
 - Olinomic
 - OPEN
 - Outing Club
