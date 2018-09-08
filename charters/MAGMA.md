@@ -18,10 +18,15 @@ and moderating the mailing list, and club spending training. Both of
 these positions can have any number of members greater than zero, and do not equate to
 leadership of the club.
 
+## Transition Protocol
+As our horizontal leadership structure does not define leaders, the two responsibilities
+within our club will be passed down to volunteering members of the club at their will.
+
 ## Materials, Purchases, and Spaces
 The club requires a common space (typically the computer lab) for
-members to participate in game jams. Purchases are made by the current
-Presidente.
+members to participate in game jams. Purchases are made by a club member
+who has been club spending trained following a club-wide majority vote on the
+spending.
 
 ## Events and Activities
 Game jams. This can include Ludum Dare, Global Game Jam, the One Hour Game Jam, etc.
