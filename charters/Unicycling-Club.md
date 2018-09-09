@@ -1,11 +1,11 @@
 # Midnight Riders
-*Last modified 2017-09-04*
+*Last modified 2018-09-08*
 
 ## Purpose
-We exist solely to unicycle and teach others how to unicycle! Games such as tag and uni hockey are a good way to get exercise and unwind between meetings.
+To promote and enable the use and learning to use of unicycles.
 
 ## Membership
-The Midnight Riders are very informal - no commitment is required, but assistance with fixing unis is always appreciated. Members should email the list when going unicycling so that others may join!
+Unicycling Club is very informal - no commitment is required, but assistance with fixing unis is always appreciated. Members should email the list when going unicycling so that others may join!
 
 ## Officers and Roles:
 Presidents of the Midnight Riders are responsible for keeping the storage area neat, unicycles repaired, and logistical issues taken care of / scheduled.
