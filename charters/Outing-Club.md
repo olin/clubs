@@ -1,5 +1,5 @@
 # Outing Club
-*Last modified 2017-09-05*
+*Last modified 2018-09-05*
 
 ## Purpose
 Facilitate Olin student enjoyment of the great outdoors through organizing camping and hiking trips, as well as providing a stock of gear for Olin students to borrow and use.
@@ -18,7 +18,7 @@ Either held for another year or assigned in May by outgoing president to another
 Storage space shared with Adventure Club and SCUBA club in WH2W.  We own several tents, sleeping bags, backpacks, etc. that are open for student body use.
 
 ## Events and Activities
-The beginning-of-the-year camping trip, end-of-year Monadnock hike, and possible occasional events throughout.
+The beginning-of-the-year camping trip, spring ski trip, and possible occasional events throughout.
 
 ## Amendment Procedure
 We're a dictatorship.  Whatever the Dear Leader wishes.
