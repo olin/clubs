@@ -1,5 +1,5 @@
 ## Society of Women Engineers Club Charter
-#### Updated 9/21/2017
+#### Updated 9/21/2018
 
 ### Purpose
 The purpose of the Olin SWE Chapter is to provide Olin students (of all genders) that are interested in promoting women in engineering with professional development opportunities and mentorship.
