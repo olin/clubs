@@ -19,7 +19,7 @@ If one of the two co-leaders is graduating, the troupe votes in April for a repl
 
 ## Club Materials, Purchases and Space
 
-The club needs no materials, but will request funding for an ImprovBoston college membership and admission to College Comedy Fest in the spring.
+The club needs no materials for regular meetings, but will request funding for an ImprovBoston college membership and admission to College Comedy Fest in the spring. For these events, the club will also request gas, parking, and toll reimbursement. For special team bonding events, the club will request funds for food.
 
 ## Events and Activities
 
