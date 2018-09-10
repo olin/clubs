@@ -1,5 +1,5 @@
 # Olin Aerials and Circus
-*Last modified 2017-09-07*
+*Last modified 2018-09-10*
 
 ## Purpose
 - Expose students to the wide world of circus and aerial arts, which a lot of people don’t even know is something they can be involved in
