@@ -1,5 +1,5 @@
 # WHACK: Weapons-Handling-And-Combat-Kakistocracy (Fencing)
-*Last modified 2017-09-07*
+*Last modified 2018-09-03*
 
 ## Purpose
 The purpose of WHACK is to allow Olin students to have a place to fence on campus. Many Oliners fenced before coming to school, but it is very difficult to travel to any clubs in the area.
