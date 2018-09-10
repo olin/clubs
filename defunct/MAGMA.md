@@ -1,6 +1,6 @@
 # MAGMA
 Make A Game, Make Assets
-Last Modified 9/7/2018
+Last Modified 8/8/2017
 
 ## Purpose
 To unite people with a shared interest in game development or interactive
