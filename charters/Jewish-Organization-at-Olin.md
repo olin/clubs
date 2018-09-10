@@ -1,6 +1,6 @@
 # Jewish Organization at Olin
 
-*Last modified 09/08/2017*
+*Last modified 09/10/2018*
 
 ## Purpose
 To have an alive Jewish culture on campus. To educate Jews and non-Jews about Jewish culture and practices. To create an environment where Jews feel comfortable.
