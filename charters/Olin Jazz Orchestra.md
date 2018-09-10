@@ -1,9 +1,9 @@
-# Musicians Learning New Instruments And In A Jazz Band (MLNIAIAJB)
-*Last Modified 01-31-2018*
+# Olin Jazz Orchestra (OJO)
+*Last Modified 09-07-2018*
 
 ## Purpose
 
-MLNIAIAJB is a club for people that are learning new instruments that want to be involved in a band. It is a collection of people who are not very good at playing, but have heart and willingness to learn and make mistakes. We may not sound great, but we sound a lot better than when we first started. By playing together in a group setting, we encourage each other to practice and get better at our individual instruments while providing a support structure.
+OJO is a club for people that want be a part of a big band at Olin. We will play both classic and contemporary big band music.
 
 ## Membership
 
@@ -27,11 +27,11 @@ The space used by the club will either be the Jam Room in the Campus Center, or 
 
 ## Events and Activities
 
-MLNIAIAJB holds a weekly band-practice in the Jam Room, which every member of MLNIAIAJB must attend. There will also be sectional practices (such as rhythm section or wind section) that members of each sectional must attend. Every member is also expected to practice and learn their instrument outside of these times.
+OJO holds a weekly band-practice in the Jam Room, which every member of OJO must attend. There will also be sectional practices (such as rhythm section or wind section) that members of each sectional must attend. Every member is also expected to practice and learn their instrument outside of these times.
 
 The club will also have at least one concert which is open for anyone to attend.
 
 ## Amendment Procedure
 
-If members of MLNIAIAJB are unsatisfied with how the club is being run, or the rules, they are open to being amended. More than half of the members must vote in approval of a change for that change to happen.
+If members of OJO are unsatisfied with how the club is being run, or the rules, they are open to being amended. More than half of the members must vote in approval of a change for that change to happen.
 
