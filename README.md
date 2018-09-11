@@ -43,7 +43,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [PowerChords](charters/PowerChords.md) - Colvin Chapman
 - [Sandwich Discourse Club](charters/Sandwich-Discourse-Club.md) - Anusha Datar
 - [Society of Women Engineers (SWE)](charters/Society-of-Women-Engineers.md) - Alison Basore
-- [Stay Late And Create (SLAC)](charters/Stay-Late-and-Create.md) - Anusha Datr
+- [Stay Late And Create (SLAC)](charters/Stay-Late-and-Create.md) - Anusha Datar
 - [Taboo](charters/Taboo.md) - Jared Briskman
 - [Weapons Handling and Combat Kakistocracy (WHACK)](charters/Weapons-Handling-And-Combat-Kakistocracy.md) - Jared Briskman
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
