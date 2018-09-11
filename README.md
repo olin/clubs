@@ -4,49 +4,49 @@ To contact any club or organization, contact the current Director of Clubs and O
 
 ## Clubs and Organizations
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2018-2019 school year.
-- [ACRONYM](charters/ACRONYM.md)
-- [Aero Club](charters/Aero.md)
-- [Archery Recreation Club (ARC)](charters/Archery-Recreation-Club.md)
-- [Badminton Club](charters/Badminton-Club.md)
-- [Board Game Club](charters/Board-Game-Club.md)
-- [BOW Climbing Organization](charters/BOW-Climbing-Organization.md)
-- [Campus Displays and Artwork Team (CDAT)](charters/CDAT.md)
-- [Dungeons and Dragons Club](charters/Dungeons-and-Dragons-Club.md)
-- [ESOL](charters/ESOL.md)
-- [European Club](charters/European-Club.md)
-- [Franklin W. Olin Players (FWOP)](charters/Franklin-W-Olin-Players.md)
-- [GROW](charters/GROW.md)
-- [Hackathon Club](charters/Hackathon-Club.md)
-- [(H)ola](charters/(H)ola.md)
-- [Indian Club](charters/Indian-Club.md)
-- [Jewish Organization at Olin (JOO)](charters/Jewish-Organization-at-Olin.md)
-- [Kitchen Club](charters/Kitchen-Club.md)
-- [Machine Learning Lab (MLL)](charters/MLL.md)
-- [Make a Game, Make Assets (MaGMA)](charters/MaGMA.md)
-- [Midnight Mathematicians](charters/Midnight-Mathematicians.md)
-- [Olin Aerials and Circus](charters/Olin-Aerials-and-Circus.md)
-- [Olin Christian Fellowship (OCF)](charters/Olin-Christian-Fellowship.md)
-- [Olin Combat Robotics Association (OCRA)](charters/OCRA.md)
-- [Olin Fire Arts Club (OFAC)](charters/Olin-Fire-Arts-Club.md)
-- [Olin Jazz Orchestra (OJO)](charters/Olin-Jazz-Orchestra.md)
-- [Olinomic](charters/Olinomic.md)
-- [Olin Performance Improv Und Magick (OPIUM)](charters/Olin-Performance-Improv-Und-Magick.md)
-- [OPEN](charters/OPEN.md)
-- [Olin Pitmasters](charters/OlinPitmasters.md)
-- [Olin Quiz Bowl](charters/Olin-Quiz-Bowl.md)
-- [Olin Rocketry](charters/Olin.md)
-- [Olin Rock Orchestra](charters/Olin-Rock-Orchestra.md)
-- [Olin Runners](charters/Olin-Runners.md)
-- [olin.build](charters/olin.build.md)
-- [Outing Club](charters/Outing-Club.md)
-- [PopTalks](charters/PopTalks.md)
-- [PowerChords](charters/PowerChords.md)
-- [Sandwich Discourse Club](charters/Sandwich-Discourse-Club.md)
-- [Society of Women Engineers (SWE)](charters/Society-of-Women-Engineers.md)
-- [Stay Late And Create (SLAC)](charters/Stay-Late-and-Create.md)
-- [Taboo](charters/Taboo.md)
-- [Weapons Handling and Combat Kakistocracy (WHACK)](charters/Weapons-Handling-And-Combat-Kakistocracy.md)
-- [Unicycling Club](charters/Unicycling-Club.md)
+- [ACRONYM](charters/ACRONYM.md) - Will Fairman
+- [Aero Club](charters/Aero.md) - Alex Scott
+- [Archery Recreation Club (ARC)](charters/Archery-Recreation-Club.md) - Hannah Kolano
+- [Badminton Club](charters/Badminton-Club.md) - Yichen Jiang
+- [Board Game Club](charters/Board-Game-Club.md) - Coleman Ellis
+- [BOW Climbing Organization](charters/BOW-Climbing-Organization.md) - Robert Barlow
+- [Campus Displays and Artwork Team (CDAT)](charters/CDAT.md) - Liv Kelley
+- [Dungeons and Dragons Club](charters/Dungeons-and-Dragons-Club.md) - Marie-Caroline Finke
+- [ESOL](charters/ESOL.md) - Athmika Senthilkumar
+- [European Club](charters/European-Club.md) - Leon Santen
+- [Franklin W. Olin Players (FWOP)](charters/Franklin-W-Olin-Players.md) - Hannah Kolano
+- [GROW](charters/GROW.md)  - Tommy Weir
+- [Hackathon Club](charters/Hackathon-Club.md) - Anusha Datar
+- [(H)ola](charters/(H)ola.md) - Erika Serna
+- [Indian Club](charters/Indian-Club.md) - Anusha Datar
+- [Jewish Organization at Olin (JOO)](charters/Jewish-Organization-at-Olin.md) - Raquel Dunoff
+- [Kitchen Club](charters/Kitchen-Club.md) - Kaitlyn Keil
+- [Machine Learning Lab (MLL)](charters/MLL.md) - Nick Sherman
+- [Make a Game, Make Assets (MaGMA)](charters/MaGMA.md) - Jeremy Ryan
+- [Midnight Mathematicians](charters/Midnight-Mathematicians.md) - Jared Briskman
+- [Olin Aerials and Circus](charters/Olin-Aerials-and-Circus.md) - Margo Crawford
+- [Olin Christian Fellowship (OCF)](charters/Olin-Christian-Fellowship.md) - Alison Basore
+- [Olin Combat Robotics Association (OCRA)](charters/OCRA.md) - Evardo Gonzalez
+- [Olin Fire Arts Club (OFAC)](charters/Olin-Fire-Arts-Club.md) - Connor Novak
+- [Olin Jazz Orchestra (OJO)](charters/Olin-Jazz-Orchestra.md) - Kyle Emmi
+- [Olinomic](charters/Olinomic.md) - Justin Kunimune
+- [Olin Performance Improv Und Magick (OPIUM)](charters/Olin-Performance-Improv-Und-Magick.md) - Alison Palmer
+- [OPEN](charters/OPEN.md) - Erika Serna
+- [Olin Pitmasters](charters/OlinPitmasters.md) - Jared Briskman
+- [Olin Quiz Bowl](charters/Olin-Quiz-Bowl.md) - Sreekanth Sajjala
+- [Olin Rocketry](charters/Olin.md) - Kyle Emmi
+- [Olin Rock Orchestra](charters/Olin-Rock-Orchestra.md) - Jared Briskman
+- [Olin Runners](charters/Olin-Runners.md) - Vicky McDermott
+- [olin.build](charters/olin.build.md) - Evan New-Schmidt
+- [Outing Club](charters/Outing-Club.md) - Brennan Vandenhoek
+- [PopTalks](charters/PopTalks.md) - Vienna Scheyer
+- [PowerChords](charters/PowerChords.md) - Colvin Chapman
+- [Sandwich Discourse Club](charters/Sandwich-Discourse-Club.md) - Anusha Datar
+- [Society of Women Engineers (SWE)](charters/Society-of-Women-Engineers.md) - Alison Basore
+- [Stay Late And Create (SLAC)](charters/Stay-Late-and-Create.md) - Anusha Datr
+- [Taboo](charters/Taboo.md) - Jared Briskman
+- [Weapons Handling and Combat Kakistocracy (WHACK)](charters/Weapons-Handling-And-Combat-Kakistocracy.md) - Jared Briskman
+- [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
 
 ## Other Student Groups
 - Babson Olin Catholic Association
@@ -68,7 +68,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Olin Aquatic Robotic Systems (OARS)
 - Olin Electric Motorsports (Formula SAE)
 
-## Campus Research
+### Campus Research
 - [Olin Accessibility Lab](https://alisha334.wixsite.com/portfolio)
 - [Olin Autonomous Vehicles Lab (GRAVL)](http://www.olin.edu/research-imapact/faculty-research/robotics/)
 - [Olin Autonomous Wheelchair](http://www.olin.edu/faculty/profile/jeff-dusek/)
