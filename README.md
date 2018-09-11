@@ -5,7 +5,6 @@ To contact any club or organization, contact the current Director of Clubs and O
 ## Clubs and Organizations
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2018-2019 school year.
 - [ACRONYM](charters/ACRONYM.md) - Will Fairman
-- [Aero Club](charters/Aero.md) - Alex Scott
 - [Archery Recreation Club (ARC)](charters/Archery-Recreation-Club.md) - Hannah Kolano
 - [Badminton Club](charters/Badminton-Club.md) - Yichen Jiang
 - [Board Game Club](charters/Board-Game-Club.md) - Coleman Ellis
@@ -22,18 +21,15 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Jewish Organization at Olin (JOO)](charters/Jewish-Organization-at-Olin.md) - Raquel Dunoff
 - [Kitchen Club](charters/Kitchen-Club.md) - Kaitlyn Keil
 - [Machine Learning Lab (MLL)](charters/MLL.md) - Nick Sherman
-- [Make a Game, Make Assets (MaGMA)](charters/MaGMA.md) - Jeremy Ryan
 - [Midnight Mathematicians](charters/Midnight-Mathematicians.md) - Jared Briskman
 - [Olin Aerials and Circus](charters/Olin-Aerials-and-Circus.md) - Margo Crawford
 - [Olin Christian Fellowship (OCF)](charters/Olin-Christian-Fellowship.md) - Alison Basore
-- [Olin Combat Robotics Association (OCRA)](charters/OCRA.md) - Evardo Gonzalez
 - [Olin Fire Arts Club (OFAC)](charters/Olin-Fire-Arts-Club.md) - Connor Novak
 - [Olin Jazz Orchestra (OJO)](charters/Olin-Jazz-Orchestra.md) - Kyle Emmi
 - [Olinomic](charters/Olinomic.md) - Justin Kunimune
 - [Olin Performance Improv Und Magick (OPIUM)](charters/Olin-Performance-Improv-Und-Magick.md) - Alison Palmer
 - [OPEN](charters/OPEN.md) - Erika Serna
 - [Olin Pitmasters](charters/OlinPitmasters.md) - Jared Briskman
-- [Olin Quiz Bowl](charters/Olin-Quiz-Bowl.md) - Sreekanth Sajjala
 - [Olin Rocketry](charters/Olin.md) - Kyle Emmi
 - [Olin Rock Orchestra](charters/Olin-Rock-Orchestra.md) - Jared Briskman
 - [Olin Runners](charters/Olin-Runners.md) - Vicky McDermott
@@ -47,6 +43,13 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Taboo](charters/Taboo.md) - Jared Briskman
 - [Weapons Handling and Combat Kakistocracy (WHACK)](charters/Weapons-Handling-And-Combat-Kakistocracy.md) - Jared Briskman
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
+
+These student groups submitted a charter, but need to attend training.
+- [Aero Club](charters/Aero.md) - Alex Scott
+- [Make a Game, Make Assets (MaGMA)](charters/MaGMA.md) - Jeremy Ryan
+- [Olin Combat Robotics Association (OCRA)](charters/OCRA.md) - Evardo Gonzalez
+- [Olin Quiz Bowl](charters/Olin-Quiz-Bowl.md) - Sreekanth Sajjala
+- Wine Club - Jonathan Jacobs
 
 ## Other Student Groups
 - Babson Olin Catholic Association
