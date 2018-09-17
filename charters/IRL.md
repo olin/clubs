@@ -1,5 +1,5 @@
 # Interactive Robotics Laboratory
-*Last modified 02-5-2018*
+*Last modified 09-16-2018*
 
 ## Purpose
 
@@ -17,7 +17,7 @@ A member's role and involvement grows by taking initiative and being present. An
 
 ## Transition Protocol
 
-New club leaders are to be found and recognized between the second semester of junior year or the first semester of senior year for the existing leaders. The transition protocol should begin with initial verbal confirmation, followed by announcement to the team, followed by a slow transition of responsibilities from the existing leaders to the new ones over the course of a semester. A good official tradeoff point when the new leaders formally take on the position and the existing leaders retire to become gurus is EXPO signups.  
+New club leaders are to be found and recognized between the second semester of junior year or the first semester of senior year for the existing leaders. The transition protocol should begin with initial verbal confirmation, followed by announcement to the team, followed by a slow transition of responsibilities from the existing leaders to the new ones over the course of a semester. A good official tradeoff point when the new leaders formally take on the position and the existing leaders retire to become gurus is EXPO signups.
 
 ## Club Materials, Purchases and Space
 
