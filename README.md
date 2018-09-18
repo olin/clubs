@@ -9,6 +9,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Badminton Club](charters/Badminton-Club.md) - Yichen Jiang
 - [Board Game Club](charters/Board-Game-Club.md) - Coleman Ellis
 - [BOW Climbing Organization](charters/BOW-Climbing-Organization.md) - Robert Barlow
+- [Buff Theory](charters/Buff-Theory.md) - Aditya Suduakar
 - [Campus Displays and Artwork Team (CDAT)](charters/CDAT.md) - Liv Kelley
 - [Dungeons and Dragons Club](charters/Dungeons-and-Dragons-Club.md) - Marie-Caroline Finke
 - [ESOL](charters/ESOL.md) - Athmika Senthilkumar
@@ -18,6 +19,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Hackathon Club](charters/Hackathon-Club.md) - Anusha Datar
 - [(H)ola](charters/(H)ola.md) - Erika Serna
 - [Indian Club](charters/Indian-Club.md) - Anusha Datar
+- [Interactive Robotics Club](charters/IRL.md) - Yichen Jiang
 - [Jewish Organization at Olin (JOO)](charters/Jewish-Organization-at-Olin.md) - Raquel Dunoff
 - [Kitchen Club](charters/Kitchen-Club.md) - Kaitlyn Keil
 - [Machine Learning Lab (MLL)](charters/MLL.md) - Nick Sherman
@@ -42,6 +44,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Stay Late And Create (SLAC)](charters/Stay-Late-and-Create.md) - Anusha Datar
 - [Taboo](charters/Taboo.md) - Jared Briskman
 - [Weapons Handling and Combat Kakistocracy (WHACK)](charters/Weapons-Handling-And-Combat-Kakistocracy.md) - Jared Briskman
+- [Wine Club](charters/Wine-Club.md)
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
 
 These student groups submitted a charter, but need to attend training.
