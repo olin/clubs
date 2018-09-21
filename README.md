@@ -44,8 +44,8 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Stay Late And Create (SLAC)](charters/Stay-Late-and-Create.md) - Anusha Datar
 - [Taboo](charters/Taboo.md) - Jared Briskman
 - [Weapons Handling and Combat Kakistocracy (WHACK)](charters/Weapons-Handling-And-Combat-Kakistocracy.md) - Jared Briskman
-- [Wine Club](charters/Wine-Club.md)
-- [World Record Excellency Club](charters/WREC.md)
+- [Wine Club](charters/Wine-Club.md) - Jonathan Jacobs
+- [World Record Excellency Club](charters/WREC.md) - Florian Michael-Schwarzinger
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
 
 These student groups submitted a charter, but need to attend training.
