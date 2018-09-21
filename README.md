@@ -4,6 +4,7 @@ To contact any club or organization, contact the current Director of Clubs and O
 
 ## Clubs and Organizations
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2018-2019 school year.
+- [Aero Club](charters/Aero.md) - Alex Scott
 - [ACRONYM](charters/ACRONYM.md) - Will Fairman
 - [Archery Recreation Club (ARC)](charters/Archery-Recreation-Club.md) - Hannah Kolano
 - [Badminton Club](charters/Badminton-Club.md) - Yichen Jiang
@@ -23,9 +24,12 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Jewish Organization at Olin (JOO)](charters/Jewish-Organization-at-Olin.md) - Raquel Dunoff
 - [Kitchen Club](charters/Kitchen-Club.md) - Kaitlyn Keil
 - [Machine Learning Lab (MLL)](charters/MLL.md) - Nick Sherman
+- [Make a Game, Make Assets (MaGMA)](charters/MaGMA.md) - Jeremy Ryan
 - [Midnight Mathematicians](charters/Midnight-Mathematicians.md) - Jared Briskman
 - [Olin Aerials and Circus](charters/Olin-Aerials-and-Circus.md) - Margo Crawford
+- [olin.build](charters/olin.build.md) - Evan New-Schmidt
 - [Olin Christian Fellowship (OCF)](charters/Olin-Christian-Fellowship.md) - Alison Basore
+- [Olin Combat Robotics Association (OCRA)](charters/OCRA.md) - Evardo Gonzalez
 - [Olin Fire Arts Club (OFAC)](charters/Olin-Fire-Arts-Club.md) - Connor Novak
 - [Olin Jazz Orchestra (OJO)](charters/Olin-Jazz-Orchestra.md) - Kyle Emmi
 - [Olinomic](charters/Olinomic.md) - Justin Kunimune
@@ -35,7 +39,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Olin Rocketry](charters/Olin.md) - Kyle Emmi
 - [Olin Rock Orchestra](charters/Olin-Rock-Orchestra.md) - Jared Briskman
 - [Olin Runners](charters/Olin-Runners.md) - Vicky McDermott
-- [olin.build](charters/olin.build.md) - Evan New-Schmidt
+- [Olin Quiz Bowl](charters/Olin-Quiz-Bowl.md) - Sreekanth Sajjala
 - [Outing Club](charters/Outing-Club.md) - Brennan Vandenhoek
 - [PopTalks](charters/PopTalks.md) - Vienna Scheyer
 - [PowerChords](charters/PowerChords.md) - Colvin Chapman
@@ -47,13 +51,6 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Wine Club](charters/Wine-Club.md) - Jonathan Jacobs
 - [World Record Excellency Club](charters/WREC.md) - Florian Michael-Schwarzinger
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
-
-These student groups submitted a charter, but need to attend training.
-- [Aero Club](charters/Aero.md) - Alex Scott
-- [Make a Game, Make Assets (MaGMA)](charters/MaGMA.md) - Jeremy Ryan
-- [Olin Combat Robotics Association (OCRA)](charters/OCRA.md) - Evardo Gonzalez
-- [Olin Quiz Bowl](charters/Olin-Quiz-Bowl.md) - Sreekanth Sajjala
-- Wine Club - Jonathan Jacobs
 
 ## Other Student Groups
 - Babson Olin Catholic Association
