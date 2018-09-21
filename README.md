@@ -91,4 +91,4 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
 
-*Last updated September 10th, 2018*
+*Last updated September 20th, 2018*
