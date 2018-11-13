@@ -12,7 +12,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [BOW Climbing Organization](charters/BOW-Climbing-Organization.md) - Robert Barlow
 - [Buff Theory](charters/Buff-Theory.md) - Aditya Suduakar
 - [Campus Displays and Artwork Team (CDAT)](charters/CDAT.md) - Liv Kelley
-- [Create Radically Amazing Fabricated Thingamabobs (CRAFT)](charters/CRAFT-Club.md) - Griffith Stites
+- [Create Radically Amazing Fabricated Thingamabobs (CRAFT)](charters/CRAFT Club.md) - Griffith Stites
 - [Dungeons and Dragons Club](charters/Dungeons-and-Dragons-Club.md) - Marie-Caroline Finke
 - [ESOL](charters/ESOL.md) - Athmika Senthilkumar
 - [European Club](charters/European-Club.md) - Leon Santen
