@@ -65,6 +65,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Soccer (men's and women's)
 - Ultimate (men's and women's)
 - Women's Rugby (Babson-Olin team)
+- [Olin Sailing Team](charters/Olin-Sailing-Team.md) (Contact Prof. Jeff Dusek)
 
 ### Project Teams
 - AERO (Design Build Fly (DBF), International Aerial Robotics Competition (IARC), Olin Rocketry)
