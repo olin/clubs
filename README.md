@@ -18,6 +18,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [European Club](charters/European-Club.md) - Leon Santen
 - [Franklin W. Olin Players (FWOP)](charters/Franklin-W-Olin-Players.md) - Hannah Kolano
 - [GROW](charters/GROW.md)  - Tommy Weir
+- [Gymnastics Club](charters/Gymnastics-Club.md) - Andrew Pan
 - [Hackathon Club](charters/Hackathon-Club.md) - Anusha Datar
 - [(H)ola](charters/(H)ola.md) - Erika Serna
 - [Indian Club](charters/Indian-Club.md) - Anusha Datar
@@ -65,6 +66,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - Soccer (men's and women's)
 - Ultimate (men's and women's)
 - Women's Rugby (Babson-Olin team)
+- [Olin Sailing Team](charters/Olin-Sailing-Team.md) (Contact Prof. Jeff Dusek)
 
 ### Project Teams
 - AERO (Design Build Fly (DBF), International Aerial Robotics Competition (IARC), Olin Rocketry)
