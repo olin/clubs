@@ -53,6 +53,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Wine Club](charters/Wine-Club.md) - Jonathan Jacobs
 - [World Record Excellency Club](charters/WREC.md) - Florian Michael-Schwarzinger
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
+- [Zine Club(https://github.com/olin/clubs/blob/master/charters/Zine-Club.md) - Sam Daitzman
 
 ## Other Student Groups
 - Babson Olin Catholic Association
