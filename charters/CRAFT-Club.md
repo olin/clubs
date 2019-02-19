@@ -17,7 +17,7 @@ The current president must select their successor (in whatever way they feel app
 
 ## Club Materials, Purchases, and Space
 
-Members may borrow materials for group meetings. All items should be returned as soon as possible so that as many groups as possible may use them. We can submit funding requests for additional craft supplies. Please let the club president know if you have any requests.
+Members may borrow materials for meetings or personal use. All items should be returned as soon as possible so that as many groups as possible may use them. Club storage is located in the WH3 lounge closet. We can submit funding requests for additional craft supplies. Please let the club president know if you have any requests.
 
 ## Procedures
 
