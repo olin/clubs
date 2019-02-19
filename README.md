@@ -13,6 +13,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Buff Theory](charters/Buff-Theory.md) - Aditya Suduakar
 - [Campus Displays and Artwork Team (CDAT)](charters/CDAT.md) - Liv Kelley
 - [Create Radically Amazing Fabricated Thingamabobs (CRAFT)](charters/CRAFT-Club.md) - Griffith Stites
+- [Data Science Club](charters/Data-Science-Club.md) - Cassandra Overney
 - [Dungeons and Dragons Club](charters/Dungeons-and-Dragons-Club.md) - Marie-Caroline Finke
 - [ESOL](charters/ESOL.md) - Athmika Senthilkumar
 - [European Club](charters/European-Club.md) - Leon Santen
@@ -53,7 +54,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Wine Club](charters/Wine-Club.md) - Jonathan Jacobs
 - [World Record Excellency Club](charters/WREC.md) - Florian Michael-Schwarzinger
 - [Unicycling Club](charters/Unicycling-Club.md) - Marie-Caroline Finke
-- [Zine Club](https://github.com/olin/clubs/blob/master/charters/Zine-Club.md) - Sam Daitzman
+- [Zine Club](charters/Zine-Club.md) - Sam Daitzman
 
 ## Other Student Groups
 - Babson Olin Catholic Association
