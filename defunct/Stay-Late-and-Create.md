@@ -1,5 +1,5 @@
 # SLAC: Stay Late and Create
-[Last modified 2017-09-06]
+[Last modified 2018-09-05]
 
 ## Purpose
 The goal of SLAC is to provide an open venue with resources, empowerment, and support for peer learning and personal projects.
@@ -23,4 +23,3 @@ SLAC meets weekly to provide a venue for personal project work, peer-led tutoria
 
 ## Amendment Procedure 
 The charter can be changed at any time with a reasonable consensus of the Guiding Council.
-

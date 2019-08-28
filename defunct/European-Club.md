@@ -1,5 +1,5 @@
 # European Club
-_Last modified 2018-4-14_
+_Last modified 2018-9-7_
 
 ## Purpose
 The purpose of European club is to build a community of people, at Olin and other Boston-area schools, with a shared interest in European topics and culture. 
