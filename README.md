@@ -1,88 +1,42 @@
 # clubs
 A list of Student Organizations at Olin and past and current club charters.
-To contact any club or organization, contact the current Director of Clubs and Organizations, Lydia Zuehsow, at [lydia.zuehsow@students.olin.edu](mailto:lydia.zuehsow@students.olin.edu).
+To contact any club or organization, contact the Directors of Clubs and Organizations, Evan New-Schmidt and Megan Ku, at [cco@olin.edu](mailto:cco@olin.edu).
 
 ## Clubs and Organizations
-These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2017-2018 school year.
-- Acronym
-- Adventure Club
-- Aquaponics
-- Board Game Club
-- FILM
-- FUN Club
-- Glass Club
-- GROW
-- Hackathon Club
-- igniteCS
-- Indian Club
-- Kitchen Club
-- Korean Student Association
-- League of Legends at Olin
-- Make a Game, Make Assets
-- Midnight Mathematicians
-- Olin Christian Fellowship
-- Olin Fire Arts Club
-- Olin Performance Improv Und Magick
-- Olin Quiz Bowl
-- Olin Rock Orchestra
-- Olin Weekend Warriors
-- OPEN
-- Pokemon Club
-- Pretentious Podcasts and Painting with Parmesan
-- Puzzle Club
-- Running Club
-- Sandwich Discourse Club
-- Soft Robotics Club
-- Splendiferous Sixpenny Steampunk Society
-- Taboo
-- Taiwanese Association at Olin
-- Yarn Oliners Use
-
-These groups are not funded by CCO.
-- Aerial Competitive Racing at Olin (ACRO)
-- Aero Club
-- Art Club
-- Art With Heart
-- Astronomy Club
-- Babson-Olin Catholic Association (BOCA)
-- Badminton Club
-- BOW Climbing Organization
-- Chainmail and a Movie
-- Cryptography Club
-- Dungeons and Dragons Club
-- FORUM
-- Franklin W. Olin Players (FWOP)
-- German Club
-- Go Club
-- Jewish Organization at Olin
-- Magic the Gathering Club
-- Midnight Riders
-- Olin Circus Aerials
-- Olin Dance Project
-- Olin Flying Club
-- Olinomic
-- Outing Club
-- PowerChords
-- Stay Late And Create (SLAC)
-- Volleyball Club
-- Totally Awesome and Ridiculous Doctor-Inspired Stuff (TARDIS)
-- Volleyball Club
-- Weapons Handling and Combat Kakistocracy (WHACK)
+These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2019-2020 school year.
+- (nothing yet)
 
 ## Other Student Groups
-- The Foundry
+- Babson Olin Catholic Association
+- Big Brothers Big Sisters
+- Catalyst
 - Engineering Discovery (eDisco)
 - Grand Challenge Scholars' Program (GCSP)
+- Weissman Foundry
 
 ### Sports and Recreation
 - Soccer (men's and women's)
 - Ultimate (men's and women's)
+- Women's Rugby (Babson-Olin team)
+- [Olin Sailing Team](charters/Olin-Sailing-Team.md) (Contact Prof. Jeff Dusek)
 
 ### Project Teams
-- Phoenix Racing (Baja)
-- Olin Aquatic Robotic Systems (OARS)
-- Olin Electric Motorsports (Formula)
+- AERO (Design Build Fly (DBF), International Aerial Robotics Competition (IARC), Olin Rocketry)
+- Baja
 - Human-Powered Vehicles (HPV)
+- Olin Aquatic Robotic Systems (OARS)
+- Olin Electric Motorsports (Formula SAE)
+
+### Campus Research
+- [Olin Accessibility Lab](https://alisha334.wixsite.com/portfolio)
+- [Olin Autonomous Vehicles Lab (GRAVL)](http://www.olin.edu/research-imapact/faculty-research/robotics/)
+- [Olin Autonomous Wheelchair](http://www.olin.edu/faculty/profile/jeff-dusek/)
+- [Olin College Crowdsourcing and Machine Learning Lab (OCCaM Lab)](http://occam.olin.edu/)
+- [Olin Eusocial Robotics Lab (Edwin, Baymax, etc.)](http://www.olin.edu/research-imapact/faculty-research/robotics/)
+- [Olin Human Augmentation Lab](https://humanaugmentationlab.github.io/)
+- [Olin Soft Robotic Fish](http://www.olin.edu/faculty/profile/jeff-dusek/)
+- [Olin Structural Dynamics Lab](http://faculty.olin.edu/~clee1/)
+- [Olin Undergraduate Research Opportunities Program (UROP)](http://www.olin.edu/research-impact/urop/)
 
 ### Student Government
 - Council of Olin Representatives (CORe)
@@ -91,5 +45,3 @@ These groups are not funded by CCO.
 - Committee for Clubs and Organizations (CCO)
 - Supporting, Encouraging, and Recognizing Volunteerism (SERV)
 - Various CORe Committees
-
-*Last updated Sept 3, 2017*

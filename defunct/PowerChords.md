@@ -1,6 +1,6 @@
-# PowerChords Charter Update FA2016
+# PowerChords Charter Update FA2018
 
-Last Updated: August 31, 2016
+Last Updated: September 7, 2018
 
 ## I. Mission Statement
 
@@ -14,7 +14,7 @@ PowerChords officers are group members that are either elected or appointed, and
 
 The executive board of PowerChords is a subset of the PowerBoard, and consists of three elected officers: President, Music Director, and Assistant Music Director.
 
-The **Music Director (MD)** oversees all musical aspects of PowerChords. This means scheduling out the musical aspects of the semester, running rehearsals, choosing a song list, designating arrangers, improving arrangements (before the group begins learning the arrangements), influencing piece leaders, planning choreography, planning concert music order, auditioning new members, auditioning and designating soloists, teaching music concepts, and running outside of rehearsal individual work.
+The **Music Director (MD)** oversees all musical aspects of PowerChords. This means scheduling out the musical aspects of the semester, running rehearsals, choosing a song list, designating arrangers, improving arrangements (before the group begins learning the arrangements), influencing piece leaders, planning concert music order, auditioning new members, auditioning and designating soloists, teaching music concepts, and running outside of rehearsal individual work.
 
 The MD should also train an **Assistant Music Director (AMD)** who helps musically run the group, particularly if the MD is absent (1). The MD dictates what tasks the AMD is responsible for throughout the semester, and, before the end of the semester, the AMD should be capable of performing any of the MD's tasks.
 
@@ -22,11 +22,11 @@ The **President** represents PowerChords and manages the group. The President al
 
 ### 2. The PowerBoard
 
-Beyond the Executive Board, the rest of the PowerBoard is comprised of officers appointed by the Executive Board. There must be at least three officers other than the Executive Board, and suggested positions are as follows: External Business Manager, Publicity, Treasurer, CD Manager, Alumni Coordinator, Webmaster, and Historian (3). All officers report to the President on a bi-weekly basis (2).
+Beyond the Executive Board, the rest of the PowerBoard is comprised of officers appointed by the Executive Board. It is strongly recommended that there are at least 3 people not a part of the Executive Board in the PowerBoard, suggested positions are as follows: External Business Manager, Publicity, Treasurer, CD Manager, Alumni Coordinator, Webmaster, and Historian (3). All officers report to the President on a bi-weekly basis (2).
 
 The **(External) Business Manager** manages the PowerChords Gmail account, which includes responding to all emails and forwarding emails to other officers as appropriate. The External Business Manager is also the point person for coordinating with groups to schedule PowerChords events (on and off campus), applying to competitions, and inviting/securing/hosting other a capella groups to perform at PowerChords concerts.
 
-**Publicity** manages PowerChords' external image. This includes xadvertising PowerChords events, recording major concerts, creating and posting fliers around campus, creating and submitting digital fliers for displays in the Dining Hall and Milas Hall, creating and sending invitations to faculty for concerts, and managing the PowerChords Facebook and Twitter accounts.
+**Publicity** manages PowerChords' external image. This includes advertising PowerChords events, recording major concerts, creating and posting fliers around campus, creating and submitting digital fliers for displays in the Dining Hall and Milas Hall, creating and sending invitations to faculty for concerts, and managing the PowerChords Facebook and Twitter accounts.
 
 The **Treasurer** manages the finances for PowerChords. This includes selling merchandise, handling donations/raising money, submitting line items to spend money, checking in about reimbursements, and keeping track of the dollar balance of the PowerChords bank account.
 
@@ -50,17 +50,17 @@ All officers must provide their replacement with an updated transition document 
 
 ## III. Elections and Appointments for Officer Positions
 
-As laid out in Section II, PowerChords has a leadership team comprising of three elected officers (The Executive Board) and a minimum of three appointed officers. The sitting president administers all election processes (1). Elections for the following semester's officers will be held after the final concert for the semester (2).
+As laid out in Section II, PowerChords has a leadership team comprising of three elected officers (The Executive Board) and appointed officers. The sitting president administers all election processes (1). Elections for the following semester's officers will be held after the final concert for the semester (2).
 
 ### 1. Election Procedures
 
 Before each election takes place, the sitting president will set a reasonable deadline for prospective Executive Board candidates to submit a written statement explaining why they are running. Candidates must submit this written statement to the sitting President before the deadline set by the President, and the President will send these statements to the group for review before elections take place.
 
-Elections for Music Director, if occurring, are held first. Elections for President and Assistant Music Director then follow (3).
+Elections for Music Director, if occurring, should be held first. Elections for President and Assistant Music Director can then follow (3).
 
-Elections for MD must be preceded by a brief trial rehearsal run by each of the candidates. Elections for the President must be preceded by a brief group discussion run by the candidates. After all trial rehearsals or group discussions have been run, at least 24 hours must pass before the election may take place. A period of at least 12 hours must pass between any election and the written statement deadline for the next set of elections.
+Elections for MD should be preceded by a brief trial rehearsal run by each of the candidates. Elections for the President should be preceded by a brief group discussion run by the candidates. After all trial rehearsals or group discussions have been run, it is recommended to allow at least 24 hours pass before the election takes place. It is also recommended that a period of at least 12 hours be allowed to pass between any election and the written statement deadline for the next set of elections.
 
-For President, MD, and AMD elections, the group will meet, final statements for each candidate will be given, and then a group discussion without the candidates present will occur.  Voting will then take place in a secret ballot form.  Winning candidates will be announced as soon as votes are counted.
+For President, MD, and AMD elections, the group will meet, final statements for each candidate will be given, and then a group discussion without the candidates present will occur.  Voting will then take place in a secret ballot or blind excellence voting form (4).  Winning candidates will be announced as soon as votes are counted.
 
 The candidate with the most votes will be elected for the following term.  In the case of a tie, candidates who have the most votes shall participate in a runoff election.  Voters will choose only one candidate in the runoff election.
 
@@ -70,7 +70,7 @@ Two members may run as Co-Directors. Both members must enter this agreement will
 
 Non-Executive Board PowerBoard positions (e.g. Business Manager and Publicity) are appointed by a majority vote of the following semester's Executive Board. Before the appointments are made, the sitting President will set a reasonable deadline for prospective PowerBoard candidates to submit a written statement explaining why they are running. Candidates must submit this written statement before the deadline set by the President, and PowerChords will be given an opportunity to review the statements and provide feedback to the newly elected or reelected MD, AMD, and President before the appointments are made.
 
-These additional PowerBoard officers will be appointed by the newly elected or reelected MD, AMD, and President within two weeks of the MD election (4)
+These additional PowerBoard officers should be appointed by the newly elected or reelected MD, AMD, and President within two weeks of the MD election (5).
 
 ### 3. Officer Eligibility Requirements
 
@@ -82,7 +82,8 @@ These additional PowerBoard officers will be appointed by the newly elected or r
 1. If the current president is running for a position, they will submit their statement to the MD, who will compile and send out the candidate statements for that position.
 2. The MD will have elections yearly (after the Spring concert) instead of semesterly. The exception to this is if the MD steps down at the end of the Fall semester. All other officer positions require elections every semester.
 3. All candidates for President and AMD must be willing to work closely with the elected MD. Note that these two elections may take place in the same election session.
-4. These candidates must be willing to work with the elected President. Note that these appointments may also take place in the same election session.
+4. Blind excellence voting means that a current Executive Board member will count excellence votes (which can be shown with the raise of a hand) while everyone else has their eyes closed.
+5. These candidates must be willing to work with the elected President. Note that these appointments may also take place in the same election session.
 
 ## IV. Impeachment
 
@@ -137,15 +138,25 @@ It is strongly recommended that the MD also chooses an understudy for each major
 
 ### 4. Rules and Guidelines for the Distribution of Solos
 
-Any member of the group can have an absolute maximum of two major solos per semester. (This does not include being an understudy for a major solo.) MDs are strongly advised to limit each member to only one major solo per semester. 
+Any member of the group can have an absolute maximum of two major solos per semester. (This does not include being an understudy for a major solo.) MDs are strongly advised to limit each member to only one major solo per semester.
 
-## 7. Charter Revising
+## VII. Competition and Culture
+
+Before the spring semester ends, the President must lead a group discussion or discussions about attending competitions the following year. A majority of the returning members of the group must be present, and the group should decide whether or not PowerChords attends a competition and what attitude PowerChords will have towards that competition. Excellence based voting is strongly suggested, but not mandated.
+
+The key with these discussions is to be as specific as possible to set expectations for the following year. For example, the group can decide to attend ICCAs and take a "we're going to rock this!" attitude, which means that an extra weekly rehearsal will be added during the spring semester before competition happens to enable significant polishing of a set while adding choreography. This is not only helpful for current members to decide whether or not they want to remain in the group, but also helpful for recruiting new members in the fall. Having the discussion in the spring semester avoids putting pressure on new members who may have no experience with collegiate a capella competition and the culture of PowerChords to make a decision. When new members decide to join the group, they then opt-in to the decision the group makes at the end of the spring semester and expectations about time commitment and attitude are clear. 
+
+### 1. Section Notes
+
+1. It is strongly encouraged for the President to schedule a dedicated, in person feedback session at the end of every semester for individual Executive Board members, PowerBoard, and the group as a whole. While the President has discretion on whether or not that feedback session happens at the semester, happens multiple times a semester, or does not happen at all, the President should try to solicit feedback from the group at all times. The discussion about competition and culture that is mandated by this charter can be added to one of these discussion sessions or be kept separately.
+
+## VIII. Charter Revising
 
 After the Spring semester of every even year, this charter will be put up for revision. The purposes of these revisions are 1) to allow for current sections of the charter to be improved upon and cleaned up, 2) to address emerging issues, 3) to allow for the implementation of multi-year experimental policies, and 4) to assess and reevaluate our goals and purpose as a group.
 
 It will be the job of the incoming President to carry out the revision, but this President is allowed and strongly recommended to enlist the help of the incoming MD(s) and the outgoing officers in writing the new charter. Before the beginning of the Fall semester, the incoming President should have a completed draft of the charter ready for the groups approval.
 
-Once the Fall semester begins, the group has one month from the first day of rehearsal to ratify the new charter. Ratification requires two-thirds majority vote of all current group members. All sections of the charter need to be ratified; however, different sections can be ratified at different times (1).  It is the duty of the President to present each section to the group and lead discussion. A section cannot be voted on until 24 hours after the initial presentation. When every section has been ratified, the President will submit the new charter to the Vice President of Campus Life for approval by the Executive Board. The old charter will remain in effect until the new charter is ratified.
+Once the Fall semester begins, the group has one month from the first day of rehearsal to ratify the new charter. Ratification requires two-thirds majority vote of all current group members. All sections of the charter need to be ratified; however, different sections can be ratified at different times (1).  It is suggested that the President present each section to the group and lead discussion. A section should not be voted on until 24 hours after the initial presentation. When every section has been ratified, the President will submit the new charter to the Committee for Clubs and Organizations. The old charter will remain in effect until the new charter is ratified.
 
 If the group fails to ratify the charter within a month, the old charter will remain in place for the remainder of the semester. The President will then start the charter revision process again at the conclusion of the semester.
 
@@ -153,11 +164,7 @@ If the group fails to ratify the charter within a month, the old charter will re
 
 1. It is strongly encouraged that each section is ratified independently to evenly space the process.
 
-## 8. Amendments
-
-If any individual club wishes to modify this charter, it must modify the charter according to its own needs and call a special meeting to ratify the new charter.  This meeting shall be advertised at least five class days in advance, and a two-thirds majority vote of those present shall be required to ratify the charter. The newly ratified charter must be submitted by the club President to the Vice President of Campus Life for approval by the Executive Board.
-
-## 9. Appendix
+## IX. Appendix
 
 ### A. Suggested Attendance Policy Details, Final Attendance Policy to be Determined by President
 

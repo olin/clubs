@@ -1,5 +1,5 @@
 # Olin Aquaponics
-*Last modified 08-02-2016*
+*Last modified 08-31-2017*
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Membership is open to everyone. Members are encouraged to attend weekly meetings
 
 The only official role of Olin Aquaponics is that of co-leader. Co-leaders are responsible for the club operations including scheduling, budgeting, purchasing, and outreach. Co-leaders offically have final say in the club's direction, but  ought to give deference to member proposals and initiative, delegating initiatives and responsibilities to enthusiastic and engaged members.
 
-A member's role and involvement grows by taking initiative and being present. Any member who would like to take ownership of any initiative within reason, such as liasing with a club partner, designing or building a system or subsystem, or taking part in system maintenance, should recieve co-leader support. Taking initiative increases the member's role in the direction of the club.
+A member's role and involvement grows by taking initiative and being present. Any member who would like to take ownership of any initiative within reason, such as liasing with a club partner, designing or building a system or subsystem, or taking part in system maintenance, should recieve co-leader support. Taking initiative and active participcation increases the member's role in the direction of the club.
 
 ## Transition Protocol
 

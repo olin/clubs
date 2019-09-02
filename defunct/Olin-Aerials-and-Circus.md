@@ -1,13 +1,13 @@
 # Olin Aerials and Circus
-*Last modified 2016-08-28*
+*Last modified 2018-09-10*
 
 ## Purpose
 - Expose students to the wide world of circus and aerial arts, which a lot of people don’t even know is something they can be involved in
 - Give students the opportunity to expand their comfort zone, work on fun and exciting physical skills, and support wellness through physical activity
-- Provide consistent, reliable transportation since this is an off-campus activity
+- Provide consistent, reliable transportation to off-campus circus facilities
 
 ## Membership
-Members should commit to attending class on a weekly basis. Obviously it’s fine to miss a week here and there with conflicts, but overall members should expect to be attending a weekly evening class.  It is also fine to stay on our club list and attend one-off events without participating in the weekly classes.
+Members should commit to attending class regularly. Obviously it’s fine to miss a week here and there with conflicts, but attending a weekly evening class is recommended for skill maintenance. It is also fine to stay on our club list and attend one-off events without participating in the weekly classes.
 
 ## Officers and Roles
 The President will have the final decision in matters, and the responsibility of scheduling classes and transportation for the rest of the members.  But we believe in a very flat leadership structure and all members should feel empowered to suggest changes, make decisions, and take on leadership for events and activities.
