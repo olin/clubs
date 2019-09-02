@@ -1,34 +1,61 @@
-# Public Interest Tech
-*Last modified 2017-8-30*
+# Public Interest Tech (PInT)
+*Last modified 2018-08-28*
 
 ## Purpose
 
-The ACRONYM offers coffee, tea, and conversation to the community for free. Our goal is to foster a campus culture that facilitates serendipitous interaction and discussion among all members of the community, including students, faculty, and staff.
+PInT is a new student-led group on campus working to create and support ways for the Olin community to translate their skills into addressing the wider world's complex issues. Part of this initiative means starting events and conversations about engineering, policy, society, and our responsibility as engineers. Another part of this initiative is developing multiple avenues for students to get involved in. This includes pro-bono consulting work for non-profits, integrating ethics exercises and real-life scenarios into the curriculum, and student-led activism and art.
 
 ## Membership
 
-Membership is open to everyone.
+Membership is open to everyone. Babson and Wellesley students are welcome!
+
 
 ## Officers and Roles
 
-Standard-Involvement: Baristas, Buyers
+Officers: Emma Pan, Shreya Chowdhary, Sam Daitzman, Arwen Sadler
+Members: General members of the team who participate in activities and helps shape/define what the club looks like.
 
-High-Involvement: Event Coordinators, Media/Communication, Finance Officers, President
-
-High-involvement roles (board members) will be filled by consistently participating members and will be responsible for club functions.
 ## Transition Protocol
 
-In April, new board members will be selected for the following year.  Leaders should not be seniors except for in extenuating circumstances. Leaders from previous years should be present for selecting new board members.
+There must be a consensus-based process at the end of the year to elect at least 2 officers.
 
 ## Club Materials, Purchases and Space
 
-The coffeeshop will be hosted in the Milas Hall Atrium, as per Facilities’ permission and the club will strive to improve the space to better fulfill our purpose.  Consumables for the coffeeshop will need to be purchased on a somewhat regular basis by designated buyers.
+Our team space will be in the third floor endcap of the Academic Center, where Scott Hersey has been experimenting with educational spaces. We have obtained his permission to cohabitate. Our purchases will most likely be food and travel expenses, for bringing speakers to campus and hosting events. 
 
 ## Events and Activities
 
-The ACRONYM will host a pop-up coffeeshop on a weekly basis. There will be additional club meetings that offer tastings and trainings to improve our ability to act on our goals.
-Special pop-up events will be hosted on a monthly basis.
+Weekly Meeting- a weekly gathering to discuss and work on team projects and plans.
+PITea- a regular invitation to the greater Olin community to share what we’re doing and have general discussions about related subjects, like the news, our role as engineers, etc.
+Alumni Weekend Speaker Panel- an opportunity for students and alumni to discuss their experiences and interests in relation to public interest tech.
+PInT Parties- themed events we will hopefully be organizing throughout the year. Example: the library speaker and student engagement event we held last Spring.
 
 ## Amendment Procedure
 
-If things don’t work, we’ll change our structure.  Anyone who wants to participate in discussion surrounding those 
+If things don’t work, we’ll change our structure. Anyone who wants to participate in discussions surrounding those changes will be welcome.
+
+## Diversity and Inclusion Statement
+It is our intent that students from all diverse backgrounds and perspectives be well served by this team, that students' learning and developmental needs be addressed, and that the diversity that students bring to this team be viewed as a resource, strength and benefit.
+
+It is the team’s intent to engage with projects, materials, and opportunities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture.
+
+All suggestions by team members, co-designers, other students, and all stakeholders are encouraged and appreciated. Please let us know how we can improve the effectiveness of the team for you or for other students or student groups. 
+
+The members of the team are still in the process of learning about diverse perspectives and identities. If something is said that makes you uncomfortable, please talk to us about it. We commit to listening with an open mind and to changing our behavior and culture to actively include everyone.
+
+## Code of Conduct
+
+In the interest of fostering an open and welcoming environment, we pledge to make participation in our team a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. That means:
+
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community and the world
+- Showing empathy towards other community members and the world
+- Taking action whenever these principles are not being followed
+
+## Credits
+
+Our Diversity and Inclusion statement was inspired by/borrowed from the [LAIR Diversity and Inclusion statement](https://pages.olin.edu/jeff-dusek/diversity-and-inclusion).
+
+Our code of conduct has been borrowed in part from the Contributor Covenant and is licensed under CC BY 4.0 by Coraline Ada Ehmke.
