@@ -16,26 +16,34 @@ Climbing fun for everyone! Our team will be founded on several key tenets:
   d. Internally organized events (Holloween Dress Up Climb, Watch Reel Rock XX screenings together)
 
 ## Membership 
-Every member should commit to 1-2 off campus practices at the gym each week. 
+
+BOWCO Club
+Members are free to climb whenever they would like.
+
+BOWCO Team
+Members are required to attend 2 practices per week. 
+
 
 ## Officers and Roles
 Our president will be the final decision maker in all matters.  This individual will have an inner-circle of fellow leaders who will plan ad-hoc meetings.  We anticipate a majority of the work in 1) the organization of tryouts 2) structuring practices to match the skill levels and interests of the members 3) setting up internal competitions 4) managing transportation 5) managing funding 6) planning for external competitions.
 
-Selected more experienced members will act as mentors to the beginners. Their responsibilities range from giving climbing technique seminars, to just giving simple advice on climbing routes. 
+Under the President, We will also have a leader from each school.
+
+Selected more experienced members will act as mentors to the beginners. Their responsibilities range from giving climbing technique seminars, to just giving simple advice on climbing routes.
+
+Finally, a member will be assigned as coach. This member will be in charge of structuring workouts, 
 
 ## Transition Protocol
 In the month of December, the president must designate a successor, with nominations from other members, who will take over immediately until the next transition period. This internal transition will help for the new successor to learn the ropes, while the old successor is still there.  At the end of the spring semester, the new president will inform the Director of Clubs and Organizations that the transition has officially occurred.
 
 ## Club Materials, Purchases and Space
-- Paying for a portion of gym membership ($44 per month per person)
+
+Climbing Team Membership Costs:
+- Paying for team membership
 - Gas reimbursements for transportation
-- Basic communal equipment purchases: 
-  - chalk bag + chalk ($20 per year) 
-  - climbing rope
-  - harnesses ($30 * 6)
-- Subsidizing member purchases of equipment or lessons. Amount of subsidy will be determined on a case by case basis by the leaders. For example,
-  - Subsidizing the cost of buying first time shoes, since this saves rental costs in the long run and encourages commitment in the sport. 
-  - Subsidizing the cost of a lead climbing class. Stronger case if that person is willing to lead to set up top-rope routes for other outdoor members.
+- Competition entry fees
+- Outdoor climbing trip costs
+- Team bonding events
 
 ## Events and Activities
 For each of these events and activities, having a person who drives their planning and execution will be crucial for their success. So, assume that "Outdoor Boulder Trip to Lincoln Woods, Rhode Island" will have a leader.

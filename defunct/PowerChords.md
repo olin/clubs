@@ -1,6 +1,6 @@
-# PowerChords Charter Update FA2016
+# PowerChords Charter Update FA2018
 
-Last Updated: August 28, 2017
+Last Updated: September 7, 2018
 
 ## I. Mission Statement
 
@@ -14,7 +14,7 @@ PowerChords officers are group members that are either elected or appointed, and
 
 The executive board of PowerChords is a subset of the PowerBoard, and consists of three elected officers: President, Music Director, and Assistant Music Director.
 
-The **Music Director (MD)** oversees all musical aspects of PowerChords. This means scheduling out the musical aspects of the semester, running rehearsals, choosing a song list, designating arrangers, improving arrangements (before the group begins learning the arrangements), influencing piece leaders, planning choreography, planning concert music order, auditioning new members, auditioning and designating soloists, teaching music concepts, and running outside of rehearsal individual work.
+The **Music Director (MD)** oversees all musical aspects of PowerChords. This means scheduling out the musical aspects of the semester, running rehearsals, choosing a song list, designating arrangers, improving arrangements (before the group begins learning the arrangements), influencing piece leaders, planning concert music order, auditioning new members, auditioning and designating soloists, teaching music concepts, and running outside of rehearsal individual work.
 
 The MD should also train an **Assistant Music Director (AMD)** who helps musically run the group, particularly if the MD is absent (1). The MD dictates what tasks the AMD is responsible for throughout the semester, and, before the end of the semester, the AMD should be capable of performing any of the MD's tasks.
 
@@ -22,7 +22,7 @@ The **President** represents PowerChords and manages the group. The President al
 
 ### 2. The PowerBoard
 
-Beyond the Executive Board, the rest of the PowerBoard is comprised of officers appointed by the Executive Board. There must be at least three officers other than the Executive Board, and suggested positions are as follows: External Business Manager, Publicity, Treasurer, CD Manager, Alumni Coordinator, Webmaster, and Historian (3). All officers report to the President on a bi-weekly basis (2).
+Beyond the Executive Board, the rest of the PowerBoard is comprised of officers appointed by the Executive Board. It is strongly recommended that there are at least 3 people not a part of the Executive Board in the PowerBoard, suggested positions are as follows: External Business Manager, Publicity, Treasurer, CD Manager, Alumni Coordinator, Webmaster, and Historian (3). All officers report to the President on a bi-weekly basis (2).
 
 The **(External) Business Manager** manages the PowerChords Gmail account, which includes responding to all emails and forwarding emails to other officers as appropriate. The External Business Manager is also the point person for coordinating with groups to schedule PowerChords events (on and off campus), applying to competitions, and inviting/securing/hosting other a capella groups to perform at PowerChords concerts.
 
@@ -50,7 +50,7 @@ All officers must provide their replacement with an updated transition document 
 
 ## III. Elections and Appointments for Officer Positions
 
-As laid out in Section II, PowerChords has a leadership team comprising of three elected officers (The Executive Board) and a minimum of three appointed officers. The sitting president administers all election processes (1). Elections for the following semester's officers will be held after the final concert for the semester (2).
+As laid out in Section II, PowerChords has a leadership team comprising of three elected officers (The Executive Board) and appointed officers. The sitting president administers all election processes (1). Elections for the following semester's officers will be held after the final concert for the semester (2).
 
 ### 1. Election Procedures
 

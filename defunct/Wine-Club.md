@@ -1,8 +1,8 @@
-# Club Name: Terroir
+# Club Name: Wine   Club
 Last Updated: 8/31/17
 
 ## Purpose
-Terroir is a word first used by French monks to describe the special qualities enacted on their wine by the unique geologies and climates of different grape-growing regions. The purpose of our club is to educate 21+ members of the Olin community on fine wines and other craft beverages through formal tastings.
+The purpose of our club is to educate 21+ members of the Olin community on fine wines and other craft beverages through formal tastings.
 
 ## Membership
 Because this club will conduct tastings of wine and other craft beverages, membership will be restricted to those 21 and older. While membership is open to all students 21 and over, we will ask members to RSVP to specific events in order for us to purchase the right amount of wine and to keep track of who is at each event.

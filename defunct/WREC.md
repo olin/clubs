@@ -1,0 +1,19 @@
+# World Record Excellency Club (WREC) Charter
+*Last modified 8/3/2018*
+
+## Purpose
+WREC is a club devoted to making or breaking Guinness World Records (GWRs), either individually or collaboratively. The goal is for people who are interested in setting GWRs to be able to easily connect with other interested parties. Occasional meetings will be held Friday afternoons for people to talk, brainstorm, attempt records, and more. When a group or individual successfully sets a record, the subsequent meeting will have a small celebration for the party/parties involved.
+## Membership
+Membership is earned by signing up for the club. We will have a sign-up sheet at the club fair as well as a mailing list so that people can join the club after the club fair. The mailing list will also be used so the club leader can inform the members of scheduled meetings and other items. Members may also use the mailing list to organize record attempts.
+## Officers and Roles
+The leader of the club will be the Odjudicator. They will be in charge of tracking record attempts through the club including, but not limited to, the subject of the attempt, the person(s) attempting the record, attempt time, attempt location, witnesses, evidence requirements, and submitted evidence. They will also be in charge of making sure we have a location for the meetings as well as notifying members when meetings are scheduled. Furthermore, they will be in charge of organizing celebrations. The Official will be in charge of allocating available funding for parties, record attempts, and other events. Members who attempt records must be willing to act as witnesses for attempts made by other parties. 
+## Impeachment Procedure
+At any time, any member of the club may call for an impeachment of any current officer by notifying the Odjudicator or Official. The notification must have the signatures of the member who called for the impeachment as well as 3 other members. An impeachment meeting must be held within two weeks. A two-thirds majority is required to remove the officer in question. In the event the Odjudicator is the subject of the impeachment, the Official assumes the role of interim-Odjudicator. If both officers are being impeached, both officers and the member(s) calling the impeachments must meet and appoint an interim-Odjudicator. If the officer is impeached, a special election must be held immediately after the impeachment proceedings to appoint a different member of the club to the position.
+## Transition Protocol
+The new Odjudicator and Official will be elected by those members who have been members for at least one month, have attempted at least one record (or has a pending attempt) through WREC, and who attend the final meeting. The election will be held in the month of April and will take the form of a 2 question anonymous survey.
+## Funds
+Funding will occasionally be required for various record attempts as well as for food and other items for celebrations. Individuals may request funding up to a cap for each attempt. The cap will be set by the Official on a case-by-case basis factoring in need and available funding. Celebrations will have a cap of $20 per celebration.
+## Events and Activities
+We will have meetings for brainstorming, attempts, celebrations, and more. Members will be notified when meetings are scheduled. Members may request the Odjudicator schedule a meeting. The meeting must be approved and scheduled by the Odjudicator except in cases where there is a conflict of interest involving the Odjudicator (ie. impeachment).
+## Amendment Procedure
+Any member can propose an amendment. The Odjudicator will send out an email informing members of the amendment and that there will be a vote on it at the following meeting. If more than half of the members present that have been to at least one previous meeting vote to pass the amendment, then the motion succeeds.

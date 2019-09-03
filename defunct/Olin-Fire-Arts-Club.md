@@ -1,5 +1,5 @@
 # Olin Fire Arts Club (OFAC)
-*Last modified 2017-06-13*
+*Last modified 2018-08-30*
 
 ## Purpose
 
@@ -7,11 +7,12 @@ Teach and foster fire arts at Olin.
 
 ## Membership
 
-Members attend practice once a week and burns every other week, and we do performances for candidates weekend and family weekend. Members don't need to attend every practice to burn.
+Members attend practice once a week and burns every other week, and we do performances for candidates weekend and family weekend. 
+Members don't need to attend every practice to burn.
 
 ## Officers and Roles
 
-President: Paige Pfenninger VP: Connor Novak
+President: Connor Novak VP: Diego Alvarez
 
 ## Transition Protocol
 

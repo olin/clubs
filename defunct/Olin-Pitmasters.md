@@ -1,4 +1,5 @@
 # Olin Pit Masters
+*Last modified 2018-09-03*
 
 ## Purpose
 

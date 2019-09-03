@@ -1,5 +1,5 @@
 # Olin Rock Orchestra
-*Last modified 2017-08-23*
+*Last modified 2018-09-03*
 
 ## Purpose
 

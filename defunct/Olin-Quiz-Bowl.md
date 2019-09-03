@@ -1,5 +1,5 @@
 # Olin Quiz Bowl
-*Last modified 2017-07-12*
+*Last modified 2018-09-10*
 
 ## Purpose
 The purpose of this club is to hold practices and organize tournament trips for Olin students to compete in college level National Academic Quiz Tournaments.
