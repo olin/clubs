@@ -1,6 +1,9 @@
 # clubs
 A list of Student Organizations at Olin and past and current club charters.
-To contact any club or organization, contact the Directors of Clubs and Organizations, Evan New-Schmidt and Megan Ku, at [cco@olin.edu](mailto:cco@olin.edu).
+
+Contact the Directors of Clubs and Organizations, Evan New-Schmidt and Megan Ku, at [cco@olin.edu](mailto:cco@olin.edu) with any questions/concerns.
+
+For inspiration when writing charters, see the [charter template](charters/_charter_template.md).
 
 ## Clubs and Organizations
 These groups are funded by the Committee for Clubs and Organizations (CCO) in the 2019-2020 school year.
