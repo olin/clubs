@@ -39,6 +39,7 @@ These groups are funded by the Committee for Clubs and Organizations (CCO) in th
 - [Olin Human Augmentation Lab](https://humanaugmentationlab.github.io/)
 - [Olin Soft Robotic Fish](http://www.olin.edu/faculty/profile/jeff-dusek/)
 - [Olin Structural Dynamics Lab](http://faculty.olin.edu/~clee1/)
+- [Olin Spatial Computing Lab](http://www.olin.edu/faculty/profile/scott-harris/)
 - [Olin Undergraduate Research Opportunities Program (UROP)](http://www.olin.edu/research-impact/urop/)
 
 ### Student Government
