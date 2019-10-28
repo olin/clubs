@@ -2,6 +2,8 @@
 *Last modified 2018-09-07*
 ## Purpose 
 The goal of this club is to set up times and events during which people can play board games with others, to manage the board games Olin owns, and to buy new board games.
+
+This has the potential to be an important and benficial part of the Olin community, providing an alternative (or supplement) to partying activities that is analog, in person, and based around interaction and problem solving.
 ## Membership
 Anyone can be a member, and there are no official criteria for membership. Members can vote on proposed amendments to the charter. It is suggested members sign up for the Board Game Club mailing list as this is how members are contacted, and amendments to the charter are proposed.
 ## Officers and Roles
