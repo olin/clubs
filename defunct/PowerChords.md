@@ -1,6 +1,6 @@
-# PowerChords Charter Update FA2018
+# PowerChords Charter Update FA2019
 
-Last Updated: September 7, 2018
+Last Updated: September 9, 2019
 
 ## I. Mission Statement
 
