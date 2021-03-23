@@ -1,5 +1,5 @@
 # Olin Weekend Warriors
-*Last modified 2017-08-30*
+*Last modified 2019-09-12*
 
 ## Purpose
 
@@ -11,7 +11,7 @@ OWW is open to anyone on Olin's campus (including professors and Babson students
 
 ## Officers and Roles
 
-President: plans meetings, sends iCals, makes purchases, organizes with Babson's nerf club for joint events
+President: plans meetings, sends iCals, makes purchases, runs (or finds someone to run) weekly battles
 
 ## Transition Protocol
 
@@ -23,7 +23,7 @@ We have a large quantity of nerf-related items in the closet located in WH1. We 
 
 ## Events and Activities
 
-We meet once a week in the evenings and run around the AC with nerf guns. This coming year, we are planning on collaborating more with Babson's nerf club as well, to possibly have dual-campus events.
+We meet once a week in the evenings and run around the AC with nerf guns. We may work on collborating on events with Babson's nerf club
 
 ## Amendment Procedure
 
