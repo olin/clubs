@@ -1,11 +1,11 @@
 # Midnight Math
-*Last modified 2018-09-03*
+*Last modified 2019-09-03*
 
 ## Purpose
 At Olin, math is generally perceived as a means to an end. A field of mathematics is not deemed worth studying unless some immediate usefulness can be gleaned from it. The Midnight Mathematicians intend to be a counterpoint to this mentality. Alongside their regular math curriculum, we believe students deserve a glimpse at more extraordinary kinds of mathematics, even if the application of this math is not immediately obvious.
 
 ## Membership
-Membership is determined by the mailing list.
+Membership is determined by the mailing list MidnightMath@lists.olin.edu.
 
 ## Officers and Roles:
 There shall be, in charge of all that needs charging, two administrative positions to be filled: The Minister of Primes, and the Prime Minister. They will be ultimately responsible for ensuring that each Midnight Math lecture happens in a classy manner. In the event that the Prime Minister or the Minister of primes is absent, the other will bear the sole responsibility of ensuring the club runs smoothly. 
